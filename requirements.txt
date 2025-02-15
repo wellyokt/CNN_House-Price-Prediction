@@ -1,7 +1,8 @@
 geopandas==1.0.1
 pyarrow==19.0.0
-GDAL==3.4.3 
 leaflet==0.0.3
+GDAL @ https://raw.githubusercontent.com/wellyokt/CNN_House-Price-Prediction/main/artifacts/gdal/GDAL-3.4.3-cp310-cp310-win_amd64.whl
+
 
 streamlit==1.31.0
 streamlit-folium==0.18.0
