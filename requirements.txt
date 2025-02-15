@@ -18,7 +18,6 @@ mapclassify==2.6.1
 
 tensorflow==2.18.0
 scikit-learn==1.6.1
-tensorflow-addons==0.22.0
 
 fastapi==0.115.8
 streamlit_antd_components==0.3.2
