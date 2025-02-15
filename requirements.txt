@@ -1,4 +1,4 @@
-# leafmap==0.42.9
+GDAL
 geopandas==1.0.1
 pyarrow==19.0.0
 
