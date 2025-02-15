@@ -1,4 +1,0 @@
-# packages.txt (Streamlit Cloud system dependencies)
-gdal-bin
-libgdal-dev
-libspatialindex-dev
