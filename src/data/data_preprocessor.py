@@ -13,6 +13,13 @@ from tensorflow.keras.layers import Input, Dense, Concatenate, GlobalAveragePool
 from io import BytesIO
 import base64
 from shapely.geometry import mapping
+import os
+import sys
+from pathlib import Path
+
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.insert(0, project_root)
+
 
 
 class Preprocessor:
@@ -50,9 +57,11 @@ class Preprocessor:
             random = int(time.time() * 1000)
      
             #get image
-            tiff_image_path = fr"D:\ML5\final_projectt\artifacts\data_prediction\image_{random}.tiff"
+            output_dir =os.path.join(project_root, 'artifacts', 'data_prediction')
+            tiff_image_path = os.path.join(output_dir,f"image_{random}.tiff")
             tms_to_geotiff(output=tiff_image_path, bbox=bbox, zoom=17, source="Satellite", overwrite=True)
-            self.png_image_path = fr"D:\ML5\final_projectt\artifacts\data_prediction\image_{random}.png"
+            self.png_image_path = os.path.join(output_dir,f"image_{random}.png")
+
             # Open the TIFF file using Pillow
             with Image.open(tiff_image_path) as img:
                 # Save the image as PNG

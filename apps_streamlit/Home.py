@@ -5,6 +5,7 @@ import pandas as pd
 import numpy as np
 from my_module import *
 import folium
+import sys
 from shapely.geometry import Point
 import geopandas as gpd
 from streamlit_folium import folium_static
@@ -24,7 +25,18 @@ st.set_page_config(page_title='House Prediction', page_icon=f"./data/Image_ic.ic
 hide_button()
 
 
+
+# Add the project root directory to sys.path
+current_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.abspath(os.path.join(current_dir, '..'))
+sys.path.insert(0, project_root)
+
+# Now, import the module
+from src.data.data_preprocessor import Preprocessor
+from src.data.data_preprocessor import Preprocessor
+from src.data.data_loader import DataLoader
 with st.sidebar:
+
 # Menu in Sidebar
     item = sac.menu([
         sac.MenuItem('Profile', icon="bi bi-person-lines-fill"),
@@ -233,11 +245,11 @@ if item =='Profile':
 
 if item =='Predictions':
 
- 
 
         # Prediction Form
         with st.form("prediction_form"):
             st.subheader("Enter Parameters")
+            st.write(project_root)
             
             col1, col2,col3 = st.columns([4.5,0.5,4.5])
             
@@ -317,7 +329,7 @@ if item =='Predictions':
             df= gpd.GeoDataFrame(df, geometry='geometry', crs=4326)
                         # try:
             with st.spinner('Making prediction...'):
-                # try:
+                try:
                     response = requests.post(
                         "http://localhost:8000/predict",
                         json=input_data
@@ -327,70 +339,57 @@ if item =='Predictions':
                     if response.status_code == 200:
                         prediction = response.json()
                                  
-                        col = st.columns([7,3])
 
-                        with st.container(border=True):
+                except:
+                    model_path = os.path.join(project_root, 'artifacts', 'model', 'model.pkl')
+                    scaler_path = os.path.join(project_root, 'artifacts', 'model', 'scaler.pkl')
+                    dl = DataLoader(model_path, scaler_path)
 
-                            st.markdown('Map View')
-                            st.markdown("""
-                                <style>
-                                iframe {
-                                    width: 100%;
-                                    height: 100%:
-                                }
-                                </style>
-                                """, unsafe_allow_html=True)
-                            m = folium.Map(location=[df['latitude'].values[0], df['longitude'].values[0]], zoom_start=14, tiles='Esri.WorldImagery')
+                    model = dl.load_model()
+                    scaler = dl.load_scaler()
 
-                            df.to_crs(3395).buffer(1000, cap_style='square').to_crs(4326).explore(m=m,color='grey')
-                            # Add GeoDataFrame Points to Map
-                            for _, row in df.iterrows():
-                                folium.Marker(
-                                    location=[row.geometry.y, row.geometry.x],  # Latitude, Longitude
-                                    popup=f"Location: {row.geometry.y}, {row.geometry.x}",
-                                    icon=folium.Icon(color="blue", icon="info-sign")
-                                ).add_to(m)
+                    data = df
+                    data_processor = Preprocessor(data,scaler)
+                    x_img, x_tx, geom_buffer= data_processor.extract_feature()
+                
+                    prediction = model.predict([x_img,x_tx]) # Adjust indexing based on your model's output
+                    prediction =int(prediction[0][0])
 
-                            folium_static(m)
-                        
-                        geom_buffer = df.to_crs(3395).buffer(1000, cap_style='square').to_crs(4326)
-                        bbox =list(geom_buffer[0] .bounds)
-                        # Get satellite image (in-memory, no saving)
-   
-                        st.success(f"#### House Price Prediction: Rp{prediction}")
-                    else:
-                        st.error(f"Error making prediction: {response.text}")
-   
+    
+                    with st.container(border=True):
 
-        # Update API endpoint URL untuk Docker
-        # API_URL = "http://fastapi:8000"  # Gunakan nama service dari docker-compose
-            
+                        st.markdown('Map View')
+                        st.markdown("""
+                            <style>
+                            iframe {
+                                width: 100%;
+                                height: 100%:
+                            }
+                            </style>
+                            """, unsafe_allow_html=True)
+                        m = folium.Map(location=[df['latitude'].values[0], df['longitude'].values[0]], zoom_start=14, tiles='Esri.WorldImagery')
 
-                # except:
-                #     import pickle
-                #     with open(Config.MODEL_PATH, 'rb') as model_file:
-                #         model = pickle.load(model_file)
+                        df.to_crs(3395).buffer(1000, cap_style='square').to_crs(4326).explore(m=m,color='grey')
+                        # Add GeoDataFrame Points to Map
+                        for _, row in df.iterrows():
+                            folium.Marker(
+                                location=[row.geometry.y, row.geometry.x],  # Latitude, Longitude
+                                popup=f"Location: {row.geometry.y}, {row.geometry.x}",
+                                icon=folium.Icon(color="blue", icon="info-sign")
+                            ).add_to(m)
+
+                        folium_static(m)
                     
-                #     with open(Config.SCALER_PATH, 'rb') as model_file:
-                #         scaler = pickle.load(model_file)
+                    geom_buffer = df.to_crs(3395).buffer(1000, cap_style='square').to_crs(4326)
+                    bbox =list(geom_buffer[0] .bounds)
+                    # Get satellite image (in-memory, no saving)
+
+                    st.success(f"#### House Price Prediction: Rp{prediction}")
+
+
+
+                
                     
-                #     df_test = pd.DataFrame(input_data,index=[0])
-                #     col_transform = df_test.drop(columns='Male').columns.tolist()
-                #     df_test[col_transform] =scaler.transform(df_test[col_transform])  
-
-                #     prediction = model.predict(df_test)
-                #     if prediction == 0:
-                #         note ='(Ad will not be clicked)'
-                #     elif prediction == 1:
-                #            note ='(Ad will be clicked)'
-
-                #     st.success(f"#### Ads Click Prediction: {int(prediction)} {note}")
 
 
-
-
-                        
-                        
-
-
-       
+    
