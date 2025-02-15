@@ -1,0 +1,28 @@
+2025-02-08 23:30:17 | house_price | INFO | Loading configuration from config\config.yaml
+2025-02-08 23:30:17 | house_price | ERROR | Error loading configuration: [Errno 2] No such file or directory: 'config\\config.yaml'
+2025-02-08 23:36:53 | house_price | INFO | Initialized model with path: artifacts/model/model.pkl
+2025-02-08 23:36:53 | house_price | INFO | Initialized scaler with path: artifacts/model/scaler.pkl
+2025-02-08 23:36:53 | house_price | ERROR | failed to load model: [Errno 2] No such file or directory: 'artifacts/model/model.pkl'
+2025-02-08 23:39:04 | house_price | INFO | Initialized model with path: artifacts/model/model.pkl
+2025-02-08 23:39:04 | house_price | INFO | Initialized scaler with path: artifacts/model/scaler.pkl
+2025-02-08 23:39:04 | house_price | ERROR | failed to load model: [Errno 2] No such file or directory: 'artifacts/model/model.pkl'
+2025-02-08 23:43:19 | house_price | INFO | Initialized model with path: artifacts/model/model.pkl
+2025-02-08 23:43:19 | house_price | INFO | Initialized scaler with path: artifacts/model/scaler.pkl
+2025-02-08 23:43:19 | house_price | ERROR | failed to load model: [Errno 2] No such file or directory: 'artifacts/model/model.pkl'
+2025-02-08 23:45:25 | house_price | INFO | Initialized model with path: artifacts\model\model.pkl
+2025-02-08 23:45:25 | house_price | INFO | Initialized scaler with path: artifacts\model\scaler.pkl
+2025-02-08 23:45:25 | house_price | ERROR | failed to load model: [Errno 2] No such file or directory: 'artifacts\\model\\model.pkl'
+2025-02-08 23:45:50 | house_price | INFO | Initialized model with path: artifacts\model\model.pkl
+2025-02-08 23:45:50 | house_price | INFO | Initialized scaler with path: artifacts\model\scaler.pkl
+2025-02-08 23:45:50 | house_price | ERROR | failed to load model: [Errno 2] No such file or directory: 'artifacts\\model\\model.pkl'
+2025-02-08 23:46:33 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-08 23:46:33 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-08 23:46:33 | house_price | ERROR | failed to load model: 'DataLoader' object has no attribute 'model'
+2025-02-08 23:48:38 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-08 23:48:38 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-08 23:48:38 | house_price | ERROR | failed to load model: dump() missing required argument 'file' (pos 2)
+2025-02-08 23:49:35 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-08 23:49:35 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-08 23:49:37 | house_price | INFO | model load succesfully
+2025-02-08 23:49:37 | house_price | INFO | Load scaller succes
+2025-02-08 23:50:22 | house_price | INFO | Received data for prediction: {"bedroom":0,"bathroom":0,"building_area":0,"land_area":0,"latitude":0.0,"longitude":0.0}

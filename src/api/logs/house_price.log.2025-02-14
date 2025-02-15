@@ -1,0 +1,41 @@
+2025-02-14 11:34:56 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-14 11:34:57 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-14 11:35:05 | house_price | INFO | model load succesfully
+2025-02-14 11:35:06 | house_price | INFO | Load scaller succes
+2025-02-14 11:36:06 | house_price | INFO | Received data for prediction: {"bedroom":0,"bathroom":0,"building_area":0,"land_area":0,"latitude":0.0,"longitude":0.0}
+2025-02-14 11:36:06 | house_price | INFO | Load data succes
+2025-02-14 11:36:12 | house_price | ERROR | failed to get satellite image
+2025-02-14 11:36:12 | house_price | INFO | Failed Extract Feature: 'NoneType' object has no attribute 'crop'
+2025-02-14 11:39:51 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":2,"building_area":50,"land_area":60,"latitude":-7.31986379999999,"longitude":112.8071449}
+2025-02-14 11:39:51 | house_price | INFO | Load data succes
+2025-02-14 11:40:02 | house_price | ERROR | Prediction failed: cannot convert float infinity to integer
+2025-02-14 11:43:26 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-14 11:43:26 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-14 11:43:30 | house_price | INFO | model load succesfully
+2025-02-14 11:43:30 | house_price | INFO | Load scaller succes
+2025-02-14 11:43:30 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":2,"building_area":50,"land_area":60,"latitude":-7.31986379999999,"longitude":112.8071449}
+2025-02-14 11:43:30 | house_price | INFO | Load data succes
+2025-02-14 11:46:16 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":2,"building_area":50,"land_area":60,"latitude":-7.31986379999999,"longitude":112.8071449}
+2025-02-14 11:46:16 | house_price | INFO | Load data succes
+2025-02-14 12:02:41 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-14 12:02:41 | house_price | INFO | Load data succes
+2025-02-14 12:03:50 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-14 12:03:50 | house_price | INFO | Load data succes
+2025-02-14 12:05:05 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-14 12:05:05 | house_price | INFO | Load data succes
+2025-02-14 12:06:10 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-14 12:06:10 | house_price | INFO | Load data succes
+2025-02-14 12:11:26 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-14 12:11:26 | house_price | INFO | Load data succes
+2025-02-14 12:18:11 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-14 12:18:11 | house_price | INFO | Load data succes
+2025-02-14 12:19:47 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":2,"building_area":50,"land_area":60,"latitude":-7.31986379999999,"longitude":112.8071449}
+2025-02-14 12:19:47 | house_price | INFO | Load data succes
+2025-02-14 12:20:13 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-14 12:20:13 | house_price | INFO | Load data succes
+2025-02-14 12:21:49 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-14 12:21:49 | house_price | INFO | Load data succes
+2025-02-14 16:41:53 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-14 16:41:53 | house_price | INFO | Load data succes
+2025-02-14 17:33:12 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-14 17:33:12 | house_price | INFO | Load data succes

@@ -1,0 +1,5 @@
+﻿.venv
+artifacts/test_image
+artifacts/tiff
+artifacts/png
+env_mlclass

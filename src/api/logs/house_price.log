@@ -1,0 +1,14 @@
+2025-02-15 10:43:22 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model2.pkl
+2025-02-15 10:43:22 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-15 10:43:23 | house_price | INFO | model load succesfully
+2025-02-15 10:43:24 | house_price | INFO | Load scaller succes
+2025-02-15 10:43:48 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-15 10:43:48 | house_price | INFO | Load data succes
+2025-02-15 10:45:47 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":60,"land_area":60,"latitude":-7.31986379999999,"longitude":112.8071449}
+2025-02-15 10:45:47 | house_price | INFO | Load data succes
+2025-02-15 10:48:51 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-15 10:48:51 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-15 10:48:52 | house_price | INFO | model load succesfully
+2025-02-15 10:48:52 | house_price | INFO | Load scaller succes
+2025-02-15 10:48:52 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":60,"land_area":60,"latitude":-7.31986379999999,"longitude":112.8071449}
+2025-02-15 10:48:52 | house_price | INFO | Load data succes

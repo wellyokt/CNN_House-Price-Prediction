@@ -1,0 +1,1187 @@
+2025-02-12 17:49:43 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 17:49:43 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 17:49:45 | house_price | INFO | model load succesfully
+2025-02-12 17:49:45 | house_price | INFO | Load scaller succes
+2025-02-12 17:55:51 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 17:55:51 | house_price | INFO | Load data succes
+2025-02-12 17:56:15 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 17:56:15 | house_price | INFO | Load data succes
+2025-02-12 18:00:21 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 18:00:21 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 18:00:23 | house_price | INFO | model load succesfully
+2025-02-12 18:00:23 | house_price | INFO | Load scaller succes
+2025-02-12 18:02:40 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 18:02:40 | house_price | INFO | Load data succes
+2025-02-12 18:03:03 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 18:03:03 | house_price | INFO | Load data succes
+2025-02-12 18:03:44 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 18:03:44 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 18:03:48 | house_price | INFO | model load succesfully
+2025-02-12 18:03:48 | house_price | INFO | Load scaller succes
+2025-02-12 18:04:02 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 18:04:02 | house_price | INFO | Load data succes
+2025-02-12 18:04:02 | house_price | INFO | Failed Extract Feature: 'Preprocessor' object has no attribute 'X_transaction'
+2025-02-12 18:06:12 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 18:06:12 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 18:06:15 | house_price | INFO | model load succesfully
+2025-02-12 18:06:15 | house_price | INFO | Load scaller succes
+2025-02-12 18:06:20 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 18:06:20 | house_price | INFO | Load data succes
+2025-02-12 18:06:20 | house_price | INFO | Failed Extract Feature: 'Preprocessor' object has no attribute 'X_transaction_scaled'
+2025-02-12 18:07:14 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 18:07:14 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 18:07:18 | house_price | INFO | model load succesfully
+2025-02-12 18:07:18 | house_price | INFO | Load scaller succes
+2025-02-12 18:07:18 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 18:07:18 | house_price | INFO | Load data succes
+2025-02-12 18:07:18 | house_price | INFO | Failed Extract Feature: 'Preprocessor' object has no attribute 'X_transaction_scaled'
+2025-02-12 19:37:49 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 19:37:49 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 19:37:50 | house_price | INFO | model load succesfully
+2025-02-12 19:37:50 | house_price | INFO | Load scaller succes
+2025-02-12 19:37:50 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 19:37:50 | house_price | INFO | Load data succes
+2025-02-12 19:37:50 | house_price | INFO | Failed Extract Feature: Transaction data is not initialized
+2025-02-12 19:45:41 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 19:45:41 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 19:45:44 | house_price | INFO | model load succesfully
+2025-02-12 19:45:44 | house_price | INFO | Load scaller succes
+2025-02-12 19:45:52 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 19:45:52 | house_price | INFO | Load data succes
+2025-02-12 19:45:52 | house_price | ERROR | failed to preprocess data
+2025-02-12 19:45:52 | house_price | INFO | Failed Extract Feature: Unknown column geometry
+2025-02-12 19:45:55 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 19:45:55 | house_price | INFO | Load data succes
+2025-02-12 19:45:55 | house_price | ERROR | failed to preprocess data
+2025-02-12 19:45:55 | house_price | INFO | Failed Extract Feature: Unknown column geometry
+2025-02-12 19:53:12 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 19:53:12 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 19:53:14 | house_price | INFO | model load succesfully
+2025-02-12 19:53:14 | house_price | INFO | Load scaller succes
+2025-02-12 19:53:14 | house_price | ERROR | failed to load data: If using all scalar values, you must pass an index
+2025-02-12 19:54:31 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 19:54:31 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 19:54:33 | house_price | INFO | model load succesfully
+2025-02-12 19:54:33 | house_price | INFO | Load scaller succes
+2025-02-12 19:54:33 | house_price | INFO | Load data succes
+2025-02-12 19:54:33 | house_price | ERROR | failed to preprocess data
+2025-02-12 19:54:33 | house_price | INFO | Failed Extract Feature: Unknown column geometry
+2025-02-12 19:57:12 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 19:57:12 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 19:57:14 | house_price | INFO | model load succesfully
+2025-02-12 19:57:14 | house_price | INFO | Load scaller succes
+2025-02-12 19:57:14 | house_price | INFO | Load data succes
+2025-02-12 19:57:14 | house_price | ERROR | failed to buffer area
+2025-02-12 19:57:14 | house_price | INFO | Failed Extract Feature: 'function' object has no attribute 'to_crs'
+2025-02-12 19:58:34 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 19:58:34 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 19:58:36 | house_price | INFO | model load succesfully
+2025-02-12 19:58:36 | house_price | INFO | Load scaller succes
+2025-02-12 19:58:36 | house_price | INFO | Load data succes
+2025-02-12 19:58:36 | house_price | ERROR | failed to buffer area
+2025-02-12 19:58:36 | house_price | INFO | Failed Extract Feature: 'NoneType' object has no attribute 'to_crs'
+2025-02-12 19:59:46 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 19:59:46 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 19:59:47 | house_price | INFO | model load succesfully
+2025-02-12 19:59:47 | house_price | INFO | Load scaller succes
+2025-02-12 19:59:47 | house_price | INFO | Load data succes
+2025-02-12 19:59:47 | house_price | ERROR | failed to buffer area
+2025-02-12 19:59:47 | house_price | INFO | Failed Extract Feature: 'NoneType' object has no attribute 'to_crs'
+2025-02-12 20:00:36 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:00:36 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:00:37 | house_price | INFO | model load succesfully
+2025-02-12 20:00:37 | house_price | INFO | Load scaller succes
+2025-02-12 20:00:37 | house_price | INFO | Load data succes
+2025-02-12 20:00:37 | house_price | ERROR | failed to buffer area
+2025-02-12 20:00:37 | house_price | INFO | Failed Extract Feature: 'NoneType' object has no attribute 'to_crs'
+2025-02-12 20:02:07 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:02:07 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:02:08 | house_price | INFO | model load succesfully
+2025-02-12 20:02:09 | house_price | INFO | Load scaller succes
+2025-02-12 20:02:09 | house_price | INFO | Load data succes
+2025-02-12 20:02:09 | house_price | ERROR | failed to buffer area
+2025-02-12 20:02:09 | house_price | INFO | Failed Extract Feature: 'NoneType' object has no attribute 'to_crs'
+2025-02-12 20:02:29 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:02:29 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:02:30 | house_price | INFO | model load succesfully
+2025-02-12 20:02:30 | house_price | INFO | Load scaller succes
+2025-02-12 20:02:30 | house_price | INFO | Load data succes
+2025-02-12 20:02:30 | house_price | ERROR | failed to buffer area
+2025-02-12 20:02:30 | house_price | INFO | Failed Extract Feature: 'NoneType' object has no attribute 'to_crs'
+2025-02-12 20:08:27 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:08:27 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:08:28 | house_price | INFO | model load succesfully
+2025-02-12 20:08:28 | house_price | INFO | Load scaller succes
+2025-02-12 20:08:28 | house_price | INFO | Load data succes
+2025-02-12 20:08:28 | house_price | ERROR | failed to buffer area
+2025-02-12 20:08:28 | house_price | INFO | Failed Extract Feature: 'NoneType' object has no attribute 'to_crs'
+2025-02-12 20:09:27 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:09:27 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:09:28 | house_price | INFO | model load succesfully
+2025-02-12 20:09:28 | house_price | INFO | Load scaller succes
+2025-02-12 20:09:28 | house_price | INFO | Load data succes
+2025-02-12 20:09:28 | house_price | ERROR | failed to buffer area
+2025-02-12 20:09:28 | house_price | INFO | Failed Extract Feature: CRS mismatch between CRS of the passed geometries and 'crs'. Use 'GeoDataFrame.set_crs(crs, allow_override=True)' to overwrite CRS or 'GeoDataFrame.to_crs(crs)' to reproject geometries. 
+2025-02-12 20:10:05 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:10:05 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:10:07 | house_price | INFO | model load succesfully
+2025-02-12 20:10:07 | house_price | INFO | Load scaller succes
+2025-02-12 20:10:07 | house_price | INFO | Load data succes
+2025-02-12 20:10:07 | house_price | INFO | Failed Extract Feature: 'Preprocessor' object has no attribute 'satelite_image'
+2025-02-12 20:10:59 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:10:59 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:11:00 | house_price | INFO | model load succesfully
+2025-02-12 20:11:00 | house_price | INFO | Load scaller succes
+2025-02-12 20:11:00 | house_price | INFO | Load data succes
+2025-02-12 20:11:00 | house_price | INFO | Failed Extract Feature: 'Preprocessor' object has no attribute 'satelite_images'
+2025-02-12 20:11:43 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:11:43 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:11:44 | house_price | INFO | model load succesfully
+2025-02-12 20:11:44 | house_price | INFO | Load scaller succes
+2025-02-12 20:11:44 | house_price | INFO | Load data succes
+2025-02-12 20:11:52 | house_price | ERROR | failed to scale data
+2025-02-12 20:11:52 | house_price | INFO | Failed Extract Feature: 'method' object is not subscriptable
+2025-02-12 20:12:25 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:12:25 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:12:26 | house_price | INFO | model load succesfully
+2025-02-12 20:12:26 | house_price | INFO | Load scaller succes
+2025-02-12 20:12:26 | house_price | INFO | Load data succes
+2025-02-12 20:12:36 | house_price | ERROR | Prediction failed: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-02-12 20:24:11 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:24:11 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:24:12 | house_price | INFO | model load succesfully
+2025-02-12 20:24:12 | house_price | INFO | Load scaller succes
+2025-02-12 20:24:12 | house_price | INFO | Load data succes
+2025-02-12 20:24:12 | house_price | ERROR | failed to get satellite image
+2025-02-12 20:24:12 | house_price | INFO | Failed Extract Feature: [Errno 11001] getaddrinfo failed
+2025-02-12 20:25:29 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:25:29 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:25:30 | house_price | INFO | model load succesfully
+2025-02-12 20:25:30 | house_price | INFO | Load scaller succes
+2025-02-12 20:25:30 | house_price | INFO | Load data succes
+2025-02-12 20:35:04 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:35:04 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:35:05 | house_price | INFO | model load succesfully
+2025-02-12 20:35:05 | house_price | INFO | Load scaller succes
+2025-02-12 20:35:05 | house_price | INFO | Load data succes
+2025-02-12 20:35:11 | house_price | INFO | Failed Extract Feature: 'Preprocessor' object has no attribute 'satelite_image'
+2025-02-12 20:35:45 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:35:45 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:35:46 | house_price | INFO | model load succesfully
+2025-02-12 20:35:46 | house_price | INFO | Load scaller succes
+2025-02-12 20:35:46 | house_price | INFO | Load data succes
+2025-02-12 20:35:50 | house_price | ERROR | failed to load image
+2025-02-12 20:35:50 | house_price | INFO | Failed Extract Feature: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+2025-02-12 20:37:24 | house_price | ERROR | Prediction failed: Unrecognized data type: x=[<PIL.TiffImagePlugin.TiffImageFile image mode=RGB size=984x991 at 0x1A89AE71360>, array([[0., 0., 0., 0.]])] (of type <class 'list'>)
+2025-02-12 20:38:35 | house_price | ERROR | Prediction failed: Unrecognized data type: x=[<PIL.TiffImagePlugin.TiffImageFile image mode=RGB size=984x991 at 0x1A89AE71360>, array([[0., 0., 0., 0.]])] (of type <class 'list'>)
+2025-02-12 20:39:02 | house_price | ERROR | Prediction failed: Unrecognized data type: x=[<PIL.TiffImagePlugin.TiffImageFile image mode=RGB size=984x991 at 0x1A89AE71360>, array([[0., 0., 0., 0.]])] (of type <class 'list'>)
+2025-02-12 20:41:44 | house_price | ERROR | Prediction failed: Unrecognized data type: x=[<PIL.TiffImagePlugin.TiffImageFile image mode=RGB size=984x991 at 0x1A89AE71360>, array([[0., 0., 0., 0.]])] (of type <class 'list'>)
+2025-02-12 20:47:13 | house_price | ERROR | Prediction failed: Unrecognized data type: x=[<PIL.TiffImagePlugin.TiffImageFile image mode=RGB size=984x991 at 0x1A89AE71360>, array([[0., 0., 0., 0.]])] (of type <class 'list'>)
+2025-02-12 20:49:41 | house_price | ERROR | Prediction failed: Data cardinality is ambiguous. Make sure all arrays contain the same number of samples.'x' sizes: 991, 1
+
+2025-02-12 20:49:52 | house_price | ERROR | Prediction failed: Data cardinality is ambiguous. Make sure all arrays contain the same number of samples.'x' sizes: 991, 1
+
+2025-02-12 20:49:58 | house_price | ERROR | Prediction failed: Unrecognized data type: x=[<PIL.TiffImagePlugin.TiffImageFile image mode=RGB size=984x991 at 0x1A89AE71360>, array([[0., 0., 0., 0.]])] (of type <class 'list'>)
+2025-02-12 20:51:58 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:51:58 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:51:59 | house_price | INFO | model load succesfully
+2025-02-12 20:51:59 | house_price | INFO | Load scaller succes
+2025-02-12 20:51:59 | house_price | INFO | Load data succes
+2025-02-12 20:52:04 | house_price | ERROR | failed to get satellite image
+2025-02-12 20:52:04 | house_price | INFO | Failed Extract Feature: Attempt to create new tiff file `D:\ML5\final_projectt\artifacts\data_prediction\image_[[7.23557466e-01 3.29286800e-01 9.92218576e-01 4.47517780e-01
+  4.41969704e-02 3.73826148e-01 1.18964417e-01 6.35916306e-01
+  3.76644133e-01 1.43959402e-01 3.58933639e-01 2.82971776e-01
+  4.29908832e-01 1.39241713e-02 4.30079306e-01 4.77561064e-01
+  4.57158184e-01 7.54580420e-01 5.97472646e-01 3.40470177e-02
+  4.66595668e-01 1.75495776e-01 7.91180749e-01 2.22456642e-01
+  6.20591767e-01 7.59221972e-01 2.95265027e-01 3.65285142e-01
+  4.16084868e-01 1.98357971e-01 7.52749937e-01 8.91266238e-01
+  8.84371841e-01 8.46345856e-01 3.88841641e-01 9.77704595e-01
+  8.41268727e-01 9.14141892e-01 1.13905905e-01 2.95044191e-01
+  5.12651275e-01 9.29405772e-01 1.65542379e-01 9.62591071e-01
+  6.02890648e-01 4.50803695e-01 8.94125358e-01 4.99080005e-01
+  7.83013723e-02 7.31545580e-01 7.90206602e-02 6.86447615e-01
+  2.82127261e-01 1.11875804e-01 8.62906524e-01 3.00624531e-01
+  4.88042742e-01 7.65561940e-01 7.42213291e-01 6.98649630e-01
+  4.87084317e-01 4.83570973e-01 3.03471491e-01 1.77117828e-01
+  8.17742326e-01 4.86787530e-01 8.45758327e-01 9.62362776e-01
+  4.21261764e-01 3.93922311e-01 1.52491810e-01 5.23912788e-01
+  3.48836302e-01 5.54151830e-01 1.78517447e-01 2.68206419e-01
+  8.12990277e-01 5.55845240e-04 2.32739746e-01 5.58777256e-01
+  5.91303389e-01 7.83214769e-01 6.30595838e-01 9.07396068e-01
+  1.29175431e-03 7.91218099e-02 5.27257280e-01 4.75285682e-01
+  1.28105525e-01 9.00426216e-01 1.70696976e-01 7.88055160e-01
+  6.95749791e-01 1.48825757e-01 4.23626440e-01 1.61624991e-01
+  1.74188228e-01 3.97734790e-01 8.62313893e-01 6.93650789e-01
+  3.51364765e-01 6.62785650e-01 5.53375410e-01 6.93321618e-01
+  1.69425311e-01 1.78021614e-01 7.00223048e-01 9.29067696e-01
+  3.54129629e-01 1.22495893e-01 3.01681231e-01 5.38329051e-01
+  7.03239446e-01 2.56913167e-01 5.10853537e-01 6.57503549e-01
+  1.67342694e-01 3.10690164e-01 3.19233806e-01 5.78722899e-01
+  7.49362155e-01 8.25133238e-01 8.68803461e-01 9.55040069e-01
+  8.28463455e-01 7.28036240e-01 7.70452448e-01 4.07596234e-03
+  2.32548539e-01 3.29865583e-01 3.41405010e-01 5.95672760e-01
+  8.90381189e-02 8.06015643e-01 2.36268470e-01 3.68412827e-01
+  2.77117721e-01 4.89158288e-01 6.66431887e-01 4.01950933e-01
+  5.07759444e-01 9.68415283e-01 7.96512805e-01 4.63506011e-01
+  7.76956378e-03 1.73140446e-01 3.76290518e-01 8.40563082e-01
+  6.90141563e-01 8.94706288e-01 1.59988788e-01 5.95136279e-01
+  2.26459091e-01 5.56103160e-01 8.53504567e-01 7.24132889e-01
+  5.76655384e-01 5.97065668e-01 9.63835957e-01 1.06137763e-01
+  9.07118678e-01 2.31072425e-01 2.23447921e-01 9.71581037e-01
+  1.45040162e-02 2.35003645e-02 8.55646148e-01 1.61857656e-01
+  3.77702489e-01 3.46792082e-01 2.30883516e-01 6.52920485e-01
+  1.99509622e-01 5.03563664e-01 3.68768740e-01 2.11602438e-01
+  9.05972227e-01 1.12039696e-01 6.16275312e-01 7.35731347e-01
+  8.56842073e-01 6.23862051e-01 4.80101759e-01 4.74652084e-01
+  6.14273812e-01 1.54562943e-01 4.40099945e-02 5.68498943e-01
+  1.84390126e-02 2.74629286e-02 7.97035946e-01 1.99277217e-02
+  4.98606960e-01 9.47931939e-01 3.48115028e-01 9.32903252e-01
+  7.44988021e-01 1.59009519e-01 2.48945197e-01 8.08481546e-01
+  5.45181475e-01 2.42663876e-01 5.79422031e-02 4.10824743e-01
+  5.31494276e-01 3.45948110e-01 9.84817095e-01 3.97262377e-01
+  8.04104083e-01 5.42756461e-01 5.64513921e-01 2.37618995e-01
+  1.12821787e-02 9.06729118e-01 6.30785164e-01 4.64942288e-01
+  4.06058366e-01 9.22348045e-01 9.53562708e-01 3.95679294e-01
+  7.12007713e-02 9.35888035e-02 5.09173891e-01 1.79176964e-01
+  4.41049819e-01 5.18633528e-01 6.57100142e-01 1.00560372e-01
+  1.77128292e-01 5.52353822e-02 9.02441458e-01 4.97288440e-01
+  4.87875975e-03 8.57315967e-01 2.38003413e-01 8.67204449e-01
+  3.04661361e-01 2.60406091e-02 3.61161868e-01 5.08165602e-01
+  4.46938785e-01 2.16524876e-01 1.00005984e-01 4.12483978e-01
+  3.82799171e-01 9.62470336e-01 4.13253300e-02 1.60528070e-01
+  6.04300436e-01 6.46498167e-02 1.96902895e-01 1.12185167e-02
+  9.79222441e-01 4.05976580e-01 7.74032723e-01 5.33785932e-01
+  2.05706490e-01 6.85445775e-01 5.88225376e-01 4.44315181e-01
+  7.96800562e-01 6.79983410e-01 9.66244351e-01 5.28448029e-01
+  5.60574208e-01 8.30364382e-02 2.74851079e-01 3.79784919e-01
+  8.07699907e-01 9.78062333e-01 5.40594267e-01 4.73031692e-01
+  1.97395450e-01 9.52836557e-01 7.51856067e-01 5.43216614e-01
+  9.09104645e-02 5.45109181e-02 8.01707359e-02 6.07363407e-01
+  4.66669784e-01 2.57667139e-01 3.18519298e-01 9.64824737e-01
+  5.46851588e-01 6.18987486e-01 7.08008903e-01 9.61816805e-01
+  4.58419362e-01 5.56537595e-01 8.64638132e-02 6.29235596e-01
+  1.71668353e-01 1.09093574e-01 1.04110528e-01 5.70022695e-01
+  8.90806428e-01 1.00742979e-01 7.81883357e-01 1.62860669e-02
+  9.04671056e-01 5.41585674e-01 4.66424064e-01 6.21063823e-01
+  5.65062316e-01 3.44982404e-01 5.17912889e-01 9.22159424e-01
+  1.73087367e-01 2.96368207e-01 3.01381271e-01 2.24746938e-01
+  4.97339713e-01 4.82637555e-01 1.52113854e-01 7.61626882e-01
+  3.36487673e-01 2.04362207e-01 8.63531372e-01 9.27772591e-01
+  6.23187818e-01 6.02887241e-01 5.50291725e-01 9.13973231e-01
+  5.84088948e-01 7.45229876e-01 8.00278806e-01 9.04958945e-01
+  8.58317300e-01 5.98598280e-01 7.46462129e-01 7.30692178e-01
+  3.06054808e-01 8.91142107e-01 4.35332174e-01 1.43764251e-01
+  6.18869566e-02 9.85695254e-01 5.42470965e-01 3.94334126e-01
+  9.35091954e-01 9.95046783e-01 4.03493987e-01 2.50426521e-01
+  2.11501418e-01 1.02626248e-01 9.29811287e-01 9.32044839e-01
+  1.18688502e-01 8.67203754e-01 9.95518189e-01 1.94970964e-01
+  3.94303339e-01 9.36155004e-01 7.62995741e-01 4.63222004e-01
+  4.22780136e-01 2.83661768e-01 2.81476178e-02 9.01769289e-02
+  1.49708764e-01 1.34072551e-01 2.44399265e-01 7.64100961e-01
+  4.74193961e-01 5.71967645e-01 6.90233553e-02 5.83444356e-01
+  4.42816392e-01 1.31203051e-02 4.98270336e-01 1.83096765e-01
+  5.95945595e-01 5.70364624e-01 5.30023690e-01 2.30939709e-01
+  8.76017033e-01 5.22033366e-01 2.00167251e-01 8.88672865e-01
+  3.66625277e-01 4.82186956e-01 6.29529769e-01 7.28090231e-01
+  7.47163346e-01 7.72141638e-01 3.94815616e-01 3.94729191e-01
+  7.64465711e-01 8.81651343e-01 1.91581315e-01 7.59640875e-01
+  5.11944780e-01 5.10919566e-02 7.52610570e-01 8.51204211e-01
+  2.51371239e-01 3.03573596e-01 2.23788685e-01 7.52519658e-01
+  4.64465577e-01 9.46975421e-01 7.24862106e-01 8.51089149e-01
+  7.32800242e-01 6.41688868e-01 7.53764602e-01 1.69253810e-01
+  3.51416178e-01 9.03983306e-01 3.25783473e-01 2.13133483e-01
+  3.23044593e-01 6.55775507e-01 9.49235945e-01 3.44707644e-01
+  3.80205777e-01 2.16386970e-01 9.32802547e-01 3.23089151e-01
+  1.29207063e-01 3.74205124e-02 6.48234001e-01 2.05079394e-01
+  7.97191862e-01 7.57826037e-01 5.77860194e-01 4.52318666e-01
+  4.14010022e-01 5.35303468e-01 8.02029494e-01 3.80908703e-01
+  1.87544447e-01 2.88089181e-01 8.48696809e-01 4.51667103e-01
+  9.81536259e-02 5.78282387e-01 9.35582119e-01 2.37655360e-01
+  4.75460364e-01 9.91995424e-01 7.51653903e-01 8.16967419e-01
+  6.25555976e-01 2.83458386e-01 1.43539462e-01 5.25222558e-01
+  6.38462629e-02 8.01073619e-01 7.63996956e-01 4.54267674e-01
+  6.14617145e-01 3.69027887e-02 3.71038327e-01 2.74494628e-01
+  7.75813868e-01 3.12753698e-01 9.19296089e-01 5.46013428e-01
+  2.80397720e-01 8.72462637e-01 6.83775212e-01 1.24334133e-01
+  2.81762777e-01 8.95403366e-01 7.27685916e-02 4.74616672e-01
+  4.71226691e-01 3.59016786e-01 9.02715036e-01 4.67782793e-01
+  5.16534066e-01 4.28831170e-01 6.50654476e-02 5.16639756e-01
+  9.37005588e-01 5.48752548e-01 1.75305365e-01 9.02651223e-01
+  4.56098677e-01 5.97730211e-01 9.42137696e-01 7.13159392e-01
+  3.10636550e-01 2.27185309e-01 7.98062662e-01 5.23084525e-01
+  1.61212506e-02 2.20446570e-01 5.82085090e-01 8.51786947e-01
+  6.23973479e-01 5.61503422e-01 8.73785829e-01 4.34133446e-01
+  6.56175581e-01 3.68312632e-01 8.23592286e-01 3.20504051e-01
+  7.81173167e-01 1.94861069e-01 1.53633551e-01 1.98535224e-01
+  7.97711968e-01 5.04322703e-02 7.32404603e-01 5.67037909e-02
+  5.68184154e-01 4.11599132e-01 3.98360306e-01 9.47194334e-01
+  2.19520512e-01 4.66913878e-01 7.59072378e-01 5.09591080e-01
+  3.52039279e-02 6.43594510e-01 7.21839544e-01 5.75140251e-01
+  6.97370495e-01 8.09738759e-01 9.50476448e-01 4.68870906e-01
+  8.88920999e-01 2.00116282e-01 7.91220001e-01 9.19103439e-01
+  1.79704178e-01 6.74849067e-01 2.15329808e-01 3.17473387e-01
+  6.40816394e-01 6.08900183e-01 1.71353709e-01 4.61756563e-01
+  4.47981057e-01 1.47739536e-02 2.94229712e-01 2.64801706e-01
+  8.76339498e-01 3.30219301e-01 1.31654007e-01 3.59696444e-01
+  6.84779519e-01 3.16966060e-01 2.59640194e-01 5.89368820e-01
+  7.37685652e-01 1.29602881e-01 3.38832795e-01 7.47884925e-01
+  4.83945726e-01 7.68400631e-01 1.99042772e-01 2.42062901e-01
+  8.31986494e-01 9.14277879e-01 7.36069374e-01 8.44673090e-01
+  4.44919049e-01 6.39040136e-01 3.39900253e-01 6.33577184e-02
+  5.54808702e-01 5.84928880e-01 8.03501390e-01 7.49390814e-01
+  4.44252434e-01 1.55171811e-01 2.43223190e-01 8.91172364e-01
+  6.57618341e-01 8.83379388e-01 8.97501016e-02 5.34323097e-01
+  1.67208320e-01 6.34636076e-01 7.34006507e-01 5.06046019e-01
+  2.60895027e-01 6.99300856e-02 2.23417031e-01 1.63656633e-01
+  1.93011806e-01 3.93083658e-01 1.10898506e-01 4.44281259e-02
+  8.53217636e-01 4.93624754e-01 1.42343768e-01 4.22114764e-01
+  4.67644913e-01 9.44228811e-01 4.12827678e-01 5.20867463e-01
+  8.00083502e-01 9.35213699e-01 7.87760515e-01 8.22716110e-01
+  2.93570690e-01 9.34034509e-01 1.44920365e-01 2.72199230e-01
+  3.94186049e-01 2.07513751e-01 2.59637427e-01 2.06856510e-01
+  4.93640804e-02 1.48193458e-01 3.14211718e-01 4.96542280e-01
+  3.62930034e-01 7.73653835e-01 8.08147365e-01 8.80196240e-01
+  2.25011864e-01 4.13494600e-01 9.69853819e-01 4.81289251e-01
+  9.42449716e-01 8.00523802e-01 8.75870341e-01 4.15028743e-01
+  1.37204170e-02 2.91395569e-01 3.40093707e-01 6.57628206e-01
+  6.30386169e-02 8.13619101e-01 2.94803813e-01 6.11940644e-01
+  3.06663266e-01 4.24332707e-01 8.31752293e-01 7.32512344e-01
+  6.18428711e-01 4.94840316e-02 4.06092374e-01 3.85419003e-01
+  3.79106391e-01 1.32896162e-01 7.85471811e-01 6.08251907e-01
+  8.86162917e-01 9.43334113e-01 3.66604647e-01 6.48427646e-01
+  4.58682341e-01 2.59258526e-01 9.99884562e-01 2.73781017e-01
+  9.84609561e-01 2.07234372e-01 8.55706749e-01 4.24336866e-03
+  2.55322087e-01 9.48123949e-01 3.95771911e-01 8.61778780e-01
+  8.50975355e-01 5.11121537e-01 7.77897936e-01 6.33077853e-01
+  3.89447756e-01 3.29145317e-01 9.38839635e-01 6.69887010e-01
+  5.94890753e-01 5.39736341e-01 7.06808176e-01 5.67623219e-01
+  7.86318043e-01 6.83655661e-01 7.72113076e-01 6.12365920e-01
+  9.22177567e-01 3.25640632e-01 4.34335365e-01 3.24054750e-02
+  2.72481157e-01 8.28973378e-01 3.29101337e-01 8.83374372e-01
+  2.02372462e-01 9.29605801e-01 6.87732124e-01 6.64272005e-02
+  9.92679558e-01 6.34742886e-01 5.55196769e-01 6.97487205e-01
+  8.32563856e-01 2.84673260e-01 2.21866529e-01 3.96401356e-01
+  1.80220346e-01 9.25698161e-01 4.24706967e-01 8.67691864e-01
+  1.92293907e-01 4.03168070e-01 8.70394605e-02 3.54310735e-01
+  1.85798788e-01 5.88443997e-02 4.27166730e-01 3.17613019e-01
+  9.91322434e-01 2.49647843e-02 7.03126334e-01 5.56505777e-01
+  7.67196369e-01 5.32210599e-01 7.14053400e-02 3.78386501e-01
+  3.42482783e-01 9.97646297e-01 2.15840551e-01 1.30321287e-01
+  5.50785619e-01 4.17345411e-01 2.71102941e-01 6.12401553e-01
+  1.17941314e-01 3.65396155e-01 7.84299455e-01 2.32396486e-01
+  6.39098097e-01 8.35171752e-01 7.18412062e-01 5.25925211e-02
+  2.15177211e-01 6.19490960e-01 9.09304210e-01 3.85007815e-01
+  3.86749701e-01 9.57372071e-01 9.02901542e-01 2.34409552e-01
+  1.93916182e-01 5.37209891e-01 3.46880724e-01 2.16011074e-01
+  8.49485609e-01 1.22108338e-01 7.22992167e-01 1.94463761e-01
+  8.79119373e-01 7.30696877e-01 7.84727060e-01 3.16194167e-03
+  3.64781600e-01 3.03951351e-01 5.60262028e-01 4.12195191e-01
+  7.52798498e-01 2.84589172e-01 6.58201193e-01 9.57065913e-01
+  8.23458861e-01 7.63472998e-01 9.13964387e-01 6.32476644e-01
+  3.53088213e-01 5.98015458e-01 9.29393536e-01 6.14834533e-01
+  3.89493966e-01 5.54051291e-01 6.90074221e-01 2.88411470e-01
+  5.82181763e-02 5.41092144e-02 8.21516992e-01 5.09611161e-01
+  6.59461770e-01 2.59677780e-01 3.33418049e-01 7.11237778e-02
+  5.04298117e-01 6.69644350e-02 2.75999436e-01 9.56434109e-02
+  6.09217574e-01 9.94086081e-01 9.25555120e-02 1.89030806e-01
+  3.24121044e-01 2.62853618e-01 9.36972161e-01 7.31928557e-01
+  3.86704621e-01 3.68297513e-01 4.98748786e-01 2.02218158e-01
+  6.16558892e-02 2.66104674e-01 2.76771929e-01 7.40304305e-01
+  5.80093917e-01 6.54214991e-01 9.19857110e-01 2.82290177e-01
+  9.56844946e-01 7.13114702e-01 8.42170926e-01 3.46115737e-01
+  1.80189507e-01 9.40512669e-01 5.01446695e-01 1.43425496e-02
+  2.63676543e-01 8.19267764e-01 3.10373172e-01 7.95879505e-01
+  8.44873933e-01 9.80176858e-01 1.82945764e-01 4.34036154e-01
+  5.71485047e-01 9.09131985e-01 2.39479096e-01 2.27943287e-01
+  1.45115028e-01 5.03317643e-01 6.95506917e-01 6.71649102e-02
+  6.79597410e-02 7.86560586e-01 9.86339796e-01 7.91347044e-01
+  6.31682814e-01 7.32094487e-01 6.40369671e-02 9.96733924e-01
+  2.63237219e-01 1.26514367e-01 2.03433556e-01 8.45107468e-02
+  1.92722918e-01 1.77226683e-01 7.01737951e-01 2.49415199e-01
+  5.33182581e-01 3.91512111e-01 3.59418960e-01 8.58410496e-01
+  9.52108395e-01 5.51654328e-01 9.56786478e-01 8.29887630e-01
+  7.75626354e-01 2.23933871e-01 9.79023465e-01 8.98675849e-01
+  6.94109991e-02 6.79887733e-01 7.87272894e-01 2.26251891e-01
+  3.90124819e-01 6.91443746e-01 4.31869905e-02 7.32077214e-01
+  8.45207399e-01 7.47091454e-01 6.62179040e-01 9.02105866e-01
+  7.25784460e-01 3.43305019e-01 9.28724325e-01 9.46260302e-01
+  3.34246926e-02 9.54924658e-01 9.91360905e-01 8.25193332e-01
+  4.47334838e-01 4.10077280e-01 7.14152270e-01 4.36441794e-01
+  1.88786231e-01 2.29156586e-01 2.74939659e-01 4.53930665e-01
+  6.85857546e-01 7.27453005e-01 9.78302516e-01 5.39839495e-01
+  6.91230518e-02 7.98258248e-01 2.07045035e-01 5.14616187e-02
+  1.17386415e-01 6.20945375e-03 1.92840402e-01 6.39339074e-01
+  3.29114617e-01 7.35909635e-01 6.13103797e-01 7.11880427e-01
+  4.48145108e-01 1.14061013e-01 6.73443565e-01 4.44252648e-01
+  2.96896978e-01 6.32360887e-01 9.12532048e-01 9.82397342e-01
+  3.64792720e-01 1.30446881e-01 9.30242631e-01 6.58858370e-01
+  4.51245462e-01 3.40389495e-01 9.63207896e-01 5.72906241e-01
+  5.07300596e-01 2.83770969e-01 5.86095684e-01 5.65351048e-01
+  6.03687244e-01 8.61515000e-01 8.44394006e-01 1.69312509e-01
+  7.10560516e-01 7.49059322e-01 9.88355389e-01 9.87422465e-01
+  4.43786166e-01 3.82421460e-01 4.82531311e-01 7.41397570e-01
+  2.91001348e-01 3.65601020e-01 4.13316246e-01 4.86592772e-01
+  7.79735009e-02 9.57729193e-02 5.79304069e-01 4.26621397e-01
+  4.50005331e-01 2.14929258e-01 3.96550325e-01 5.43301833e-01
+  6.07143600e-01 2.57369200e-01 8.94707899e-01 5.95881632e-01
+  4.48000197e-01 9.65199061e-02 7.91424589e-01 5.68965074e-02
+  7.66530629e-01 9.00560298e-01 4.23547887e-01 3.04793264e-01
+  4.44797708e-02 1.76785891e-01 9.99610141e-01 1.93674134e-01
+  4.31234649e-01 6.73806751e-02 5.13178401e-01 9.41318468e-01
+  8.26199016e-01 3.38340539e-01 3.51218022e-01 4.73855253e-01
+  5.18431003e-02 9.51215214e-01 7.68352108e-01 3.67036546e-01
+  7.35855349e-01 7.73693976e-01 1.99036742e-01 4.08893758e-01
+  6.31428226e-02 9.38438237e-01 8.56105629e-01 6.58010814e-01
+  1.79910572e-02 2.84298844e-01 9.97631813e-01 5.01655056e-01
+  6.98152022e-01 8.25038130e-01 5.52517265e-01 4.02801458e-01
+  2.89596626e-01 8.11317804e-02 4.13936056e-01 7.15367169e-01
+  6.14639333e-02 3.76169537e-01 8.20946985e-01 7.63453814e-01
+  1.96785020e-02 7.95299895e-01 9.21967743e-01 6.11232077e-01]].tiff' failed: No error
+2025-02-12 20:54:50 | house_price | ERROR | failed to get satellite image
+2025-02-12 20:54:50 | house_price | INFO | Failed Extract Feature: Attempt to create new tiff file `D:\ML5\final_projectt\artifacts\data_prediction\image_[[7.05186404e-01 8.56116077e-01 6.88990277e-01 6.25505945e-01
+  1.11314643e-01 2.69214692e-01 7.12052991e-01 4.67846267e-01
+  6.17879319e-02 3.30536743e-01 6.74041764e-01 6.73829276e-02
+  9.42807844e-01 6.84827591e-01 5.26993272e-01 3.04912219e-01
+  2.68726671e-01 5.58523319e-01 3.35189035e-02 4.19459618e-01
+  9.69178055e-02 3.42858321e-01 1.96960751e-02 1.17178837e-01
+  8.89326202e-01 5.60361881e-02 1.49265520e-01 9.09888655e-01
+  6.19615739e-02 7.97339593e-01 9.87061096e-01 3.26124859e-01
+  8.30485105e-01 4.35230421e-02 4.68741246e-01 9.52447445e-01
+  7.62525265e-01 5.42385552e-01 5.46789350e-01 4.18060563e-01
+  5.19235112e-01 9.24849678e-01 3.33221856e-01 2.04664743e-01
+  3.14344491e-01 7.67033148e-01 3.86499521e-02 7.61241132e-01
+  5.69541350e-01 6.75003442e-01 8.09082827e-01 4.51105512e-01
+  6.90243515e-01 4.51992723e-02 8.80608871e-01 5.68173401e-01
+  5.98123102e-01 2.07855017e-02 9.75694665e-01 1.88936257e-02
+  4.73246162e-01 4.70156262e-02 7.47472489e-01 2.08312787e-01
+  4.76714280e-01 3.09619726e-01 3.89825082e-01 1.30085355e-01
+  1.82020071e-01 1.84694958e-01 8.87743196e-01 6.13409358e-02
+  2.95534287e-01 3.16320990e-01 8.51549345e-01 3.52246067e-02
+  3.92293135e-01 9.84286408e-01 3.20673430e-01 3.75990150e-01
+  3.53855849e-01 6.51996019e-01 5.79634279e-01 5.80623993e-01
+  5.03290347e-01 2.90950634e-01 1.84190862e-01 8.38689893e-01
+  3.62530073e-01 1.19845387e-02 4.41083469e-01 5.66197031e-01
+  6.97598123e-01 7.29371546e-01 5.29927365e-01 9.96252085e-02
+  2.05039580e-02 5.38161328e-01 6.62257594e-01 5.79766337e-01
+  9.07909366e-01 1.98880608e-01 7.23603810e-01 2.85376389e-01
+  1.78164627e-01 9.84572939e-02 4.51123914e-01 7.11212926e-01
+  5.10807825e-01 2.07421423e-02 2.16265580e-01 1.96344099e-01
+  1.42088533e-01 6.82513233e-01 2.35179801e-01 9.34144721e-01
+  7.92782659e-01 8.08090362e-01 6.55802685e-01 5.21631386e-01
+  3.53047652e-01 4.51529658e-04 6.72199874e-01 8.67581099e-01
+  4.08964554e-01 1.40530799e-01 2.82012655e-01 7.45688016e-01
+  9.70539064e-01 2.93335400e-01 6.00253477e-01 7.35062484e-02
+  2.20781688e-01 9.92047570e-02 2.63131924e-01 2.44390347e-01
+  1.73492506e-01 6.10096792e-01 8.66387423e-01 2.84543585e-01
+  1.01237153e-01 2.58476178e-01 1.11095911e-01 8.16552840e-01
+  5.55279446e-01 2.50488117e-01 5.04488873e-01 2.43938510e-01
+  6.88222778e-01 7.73333550e-01 7.19847616e-01 6.29703925e-01
+  1.22952239e-01 7.83083907e-01 5.89780697e-01 9.52774033e-01
+  7.46060986e-01 2.18476342e-01 7.18327923e-01 8.03333387e-01
+  2.10484258e-01 5.14111371e-01 3.26578578e-02 8.68103626e-01
+  1.28361846e-01 1.77901901e-01 9.77030209e-01 4.96410338e-01
+  5.48100174e-01 5.02117730e-01 2.62893820e-01 9.29234849e-02
+  2.67982713e-01 2.42089818e-01 4.50795585e-01 4.05062796e-02
+  4.53023799e-02 7.83810364e-01 5.13085366e-01 2.10409176e-01
+  7.56791932e-01 4.12868454e-01 7.01116136e-01 8.63737937e-01
+  1.44731238e-01 7.43722169e-01 6.75453461e-01 3.35267944e-01
+  8.48633331e-01 4.10207385e-01 7.32291175e-01 4.01704470e-01
+  8.86749941e-01 4.40156844e-01 1.65865593e-01 9.32079387e-01
+  4.60445264e-01 3.54167123e-01 1.39801748e-01 7.75040288e-01
+  8.29120168e-01 3.76707251e-01 6.77249335e-01 7.90849682e-01
+  7.59712267e-01 1.21389422e-01 2.11839264e-01 9.50301265e-01
+  5.01524556e-01 9.41356260e-01 7.09122775e-01 9.06926303e-01
+  5.80680656e-01 3.07737341e-01 6.92583318e-01 8.13057368e-01
+  3.45222146e-01 5.86220268e-01 1.32326059e-01 7.94886586e-01
+  8.29399252e-01 1.41823701e-01 6.02256837e-01 7.71924307e-02
+  2.00135013e-01 8.60743276e-01 6.61514993e-01 8.95314436e-01
+  3.51565600e-03 5.25928813e-01 9.25339479e-01 2.41601831e-01
+  3.67206971e-01 8.11509947e-01 8.62047481e-01 9.71985487e-01
+  6.60708416e-01 2.58682457e-01 9.10210076e-01 1.22042576e-01
+  1.84491505e-02 3.54629453e-01 6.75115600e-01 9.56359798e-01
+  2.19689481e-01 4.01494564e-02 4.13836215e-01 8.77803303e-01
+  2.94280286e-01 6.95822078e-01 6.39992877e-01 4.90646370e-01
+  3.49071043e-01 8.47395277e-01 1.71600722e-01 2.11573570e-01
+  2.23171287e-01 2.02713854e-01 7.97739441e-01 6.42504917e-01
+  6.40599365e-01 9.23716033e-01 2.67819434e-01 6.11135230e-01
+  2.14777743e-01 4.21855702e-01 2.95494403e-01 4.66088898e-01
+  9.96470214e-01 9.09122833e-01 6.31138107e-01 6.50405993e-01
+  5.95438384e-01 1.21923960e-01 7.17834931e-01 8.12762430e-01
+  8.01621406e-01 1.73867947e-01 7.15700135e-01 2.40292539e-01
+  2.88219127e-01 4.20633401e-01 1.40537383e-01 9.20772401e-01
+  7.74847494e-01 3.17438575e-02 8.79971246e-01 4.92542403e-01
+  2.96493603e-01 9.61692531e-01 9.74970395e-01 3.20668520e-01
+  4.14770242e-01 5.48981857e-02 5.93400855e-01 5.86921266e-01
+  7.06109844e-01 1.84406941e-01 9.56176625e-01 8.40522604e-01
+  5.92087526e-01 4.68082417e-01 3.35820182e-01 9.11890108e-01
+  5.12348779e-01 2.67410476e-01 3.23133019e-01 7.66438920e-01
+  7.13197208e-01 7.23673250e-01 2.32409265e-01 1.61098788e-01
+  8.43874659e-01 8.29503930e-02 6.53389731e-01 8.31482994e-01
+  7.30968711e-01 5.57066301e-02 9.24753493e-01 8.37522791e-01
+  8.60553070e-01 1.40621409e-01 6.27523056e-02 5.68368847e-01
+  5.72443972e-01 3.76912218e-01 3.77002156e-01 1.55021328e-01
+  3.55816781e-01 8.37810206e-01 2.09944954e-01 3.27505724e-01
+  5.69047617e-01 6.64449928e-01 9.97705289e-01 8.16429022e-01
+  7.96750176e-01 4.32632767e-01 2.28591335e-01 7.84266770e-02
+  2.42286542e-01 5.99225543e-01 8.84029039e-01 1.63004846e-01
+  5.26704702e-01 8.83311946e-01 4.83177208e-01 3.20157668e-01
+  3.88469041e-01 6.11101683e-01 2.84415037e-01 6.12831083e-01
+  1.26032860e-02 6.91867446e-01 8.22170552e-01 5.48507691e-01
+  8.30163582e-01 8.30305939e-01 9.45873728e-01 9.74603253e-02
+  7.14058622e-01 9.22276957e-01 3.65956279e-01 9.51675281e-01
+  1.47357962e-01 7.48735377e-01 1.69288268e-02 9.10837517e-01
+  3.01569163e-01 9.29277764e-01 9.65252180e-01 2.32838597e-01
+  6.01492529e-01 4.40165008e-01 4.42291254e-02 8.60305924e-01
+  5.22706695e-01 6.08495856e-01 2.64198775e-01 8.25233390e-01
+  9.33963859e-01 2.68560069e-01 2.24159484e-01 6.80027381e-01
+  7.53333634e-03 6.22603329e-01 8.83490660e-01 7.23134974e-01
+  5.05179084e-01 3.28397947e-01 4.12561292e-01 5.87997486e-01
+  4.78586223e-01 8.42567954e-01 3.33208653e-01 5.10910695e-01
+  9.42048216e-01 5.23643556e-01 8.25717938e-01 1.43176259e-02
+  6.82055279e-01 3.55922180e-01 9.18100927e-02 5.95625614e-01
+  5.61049003e-01 3.11036882e-01 3.50141933e-01 1.59794270e-01
+  9.07811312e-01 7.94578375e-01 1.93193002e-01 2.45586202e-01
+  7.83314308e-01 5.46364601e-01 6.10280419e-01 9.98883860e-01
+  8.23095164e-01 7.11711813e-01 4.23128784e-01 5.95143778e-02
+  6.84993221e-01 8.42784757e-01 4.95641577e-01 8.89629668e-01
+  1.82897260e-01 6.07143712e-01 1.75083139e-01 7.55184785e-02
+  7.30170926e-01 9.78733900e-01 5.59429858e-01 2.29817619e-01
+  7.27069915e-01 4.39356482e-01 4.79830563e-01 7.01877421e-01
+  2.23768865e-01 4.70203465e-01 8.22879181e-02 1.27609001e-01
+  1.11746531e-01 2.33500375e-01 6.03059903e-01 5.76541482e-01
+  7.97838827e-01 1.93168148e-01 3.67707045e-01 5.37427857e-01
+  9.10040045e-01 4.08665516e-01 7.51100723e-01 9.81572467e-01
+  4.76308198e-02 4.76754774e-01 3.88523447e-01 8.82601193e-01
+  3.36720802e-01 4.45640912e-02 5.61725824e-01 6.38462534e-01
+  2.26243973e-01 3.28183946e-01 8.20812775e-01 5.81249209e-01
+  9.31005805e-03 5.50087507e-01 5.60233627e-01 3.43722304e-01
+  1.30504041e-01 5.95982011e-01 8.63498931e-01 4.92677121e-01
+  1.12460264e-01 2.42323386e-02 8.98430765e-01 1.45556821e-01
+  3.15341729e-01 8.57719689e-01 6.26903971e-01 5.03668538e-03
+  7.50239907e-01 4.84570158e-02 2.35361021e-01 4.50895030e-01
+  9.56941970e-01 8.37123069e-01 5.35593507e-01 8.51699362e-01
+  1.17196231e-01 6.12503370e-01 4.53924355e-01 4.47501841e-01
+  1.70862185e-01 8.93250970e-01 9.60154244e-01 5.72938453e-01
+  9.59455855e-01 3.50575857e-01 1.47644132e-01 5.26474539e-01
+  1.26454986e-01 7.44189284e-01 6.65490416e-01 1.28802029e-01
+  3.98984224e-01 1.62246153e-01 4.42469014e-01 3.41830701e-01
+  5.78186842e-01 9.65944485e-01 2.91471735e-01 6.77115877e-02
+  4.98595239e-01 3.48186780e-01 8.16418952e-01 8.81785561e-01
+  4.96646107e-01 7.66473142e-01 6.65017028e-01 3.90484870e-01
+  9.99981451e-01 5.33497475e-01 9.13162674e-01 7.18745318e-01
+  7.66769122e-01 3.02896969e-01 6.62169645e-03 2.18814754e-01
+  7.12562963e-01 6.53840894e-01 6.66739549e-01 5.74249737e-01
+  6.45128193e-01 4.29615022e-01 7.65730632e-01 1.86002296e-01
+  2.00156065e-02 5.80882684e-01 3.63135603e-01 7.45674072e-01
+  1.06070885e-01 2.35780779e-01 5.07170926e-01 4.32859820e-01
+  2.17095076e-01 2.11571821e-01 2.16573303e-01 2.12617400e-01
+  9.08133288e-01 4.62584718e-01 9.40279552e-01 9.48026460e-01
+  7.07247665e-01 8.88427802e-01 6.93313602e-01 6.85911812e-01
+  8.41133035e-01 8.15500795e-02 9.31401610e-01 3.60296461e-01
+  3.70440923e-01 7.35168097e-02 3.40794377e-01 9.92728663e-01
+  6.13537318e-01 2.36582938e-01 7.03033892e-01 5.08273989e-01
+  3.41953948e-02 7.80271109e-01 6.40203956e-01 1.91984888e-02
+  5.70917060e-01 3.27811510e-01 6.22578526e-01 4.75161752e-01
+  9.99049041e-01 6.43210788e-01 5.24362412e-01 1.97181462e-01
+  2.76923323e-01 1.51607305e-01 4.43554105e-01 2.15696772e-01
+  1.33318221e-01 6.73731481e-01 1.89902281e-01 8.51821275e-01
+  8.75539940e-02 9.83104265e-01 8.21073085e-01 3.61910772e-01
+  3.95019960e-01 9.67711291e-01 6.30778260e-01 2.08276338e-02
+  1.22714836e-01 7.87366251e-01 5.95782494e-01 6.79998427e-01
+  1.54059908e-01 7.09191609e-01 9.92413790e-01 1.20684121e-01
+  2.09880753e-01 9.04766400e-01 4.40991675e-01 5.87314995e-01
+  1.49038522e-01 7.48127657e-01 9.06295095e-01 1.69214475e-01
+  5.24328873e-01 6.21168030e-01 6.62148035e-02 5.65355795e-01
+  8.02237607e-01 5.73926713e-01 6.96001352e-01 6.47383924e-01
+  9.40817536e-01 3.86630447e-01 3.46981951e-01 4.36678878e-01
+  9.01464213e-01 3.29354648e-01 6.64081134e-01 1.84979592e-01
+  8.22858439e-01 5.13586929e-01 5.90687918e-01 7.51712463e-01
+  3.87630849e-01 7.12025584e-01 9.02103038e-01 2.57873612e-01
+  7.35626722e-01 5.52371804e-01 2.32177945e-01 2.56156817e-01
+  4.38121211e-01 1.07690201e-01 6.10380842e-01 8.17777660e-01
+  1.73857648e-01 6.55916588e-01 5.83232823e-01 8.87112812e-01
+  4.26525408e-01 6.85809596e-01 2.32420726e-01 5.54444547e-01
+  4.49652519e-01 3.78759573e-01 2.33092111e-02 1.90344678e-02
+  6.03638579e-01 2.66573219e-01 9.51157036e-01 6.25259186e-01
+  3.26626621e-01 1.63106142e-02 2.34005805e-01 6.35539328e-01
+  7.88689832e-01 3.20737065e-01 5.47976169e-01 4.69522156e-01
+  2.61542939e-01 6.15419240e-01 4.11246278e-02 7.96751521e-01
+  1.29508465e-01 5.00471977e-01 4.32660262e-01 5.62881993e-01
+  7.87363828e-01 9.44759796e-01 8.43797999e-01 7.84166098e-03
+  1.72059742e-01 1.71943631e-02 4.16222585e-01 2.98769415e-01
+  3.42128758e-01 3.62613664e-01 9.22244175e-01 9.95382905e-01
+  5.96174947e-01 8.38824455e-01 3.33389684e-01 8.24980067e-01
+  2.59584943e-01 2.94841377e-02 1.45912052e-01 6.54397714e-01
+  5.39921150e-01 8.56625401e-01 2.08863771e-01 1.66293808e-01
+  4.27162212e-01 9.99754293e-01 2.78638717e-01 2.37486897e-01
+  4.29408639e-01 4.53477532e-01 3.35654941e-01 3.62791671e-01
+  9.18516672e-01 5.37905524e-01 6.12097524e-01 3.34952789e-01
+  5.86627305e-01 8.35739192e-01 3.49647555e-01 1.13626967e-01
+  4.55168736e-01 4.83469998e-01 1.40300452e-01 9.84680450e-01
+  2.80992493e-01 3.00815074e-01 3.30090689e-01 1.87507196e-01
+  6.16814632e-01 1.11831719e-01 8.76077150e-01 7.87451717e-01
+  5.81354692e-01 3.17288897e-01 1.45220747e-01 5.97133517e-01
+  8.98263053e-01 5.84323985e-01 6.26350036e-01 8.27432965e-01
+  7.09387103e-01 8.88957709e-01 4.37469936e-01 9.50087857e-01
+  8.78807011e-01 1.37077728e-01 5.45452538e-01 5.07789961e-01
+  1.41579847e-02 7.83329020e-01 1.68566218e-01 2.10312425e-01
+  8.53728344e-01 9.85979243e-01 9.35336663e-01 8.27551480e-01
+  6.09028005e-01 5.70653339e-01 9.14186083e-01 4.23971348e-01
+  6.82488892e-01 9.06170841e-01 1.80198501e-01 1.09877084e-01
+  1.16200043e-01 8.61272193e-01 6.35850129e-01 4.51092761e-01
+  6.05487130e-01 2.90326432e-01 5.79048805e-01 1.29044421e-03
+  6.74862500e-02 6.95620308e-01 7.12596469e-01 5.05614193e-01
+  9.46307487e-01 9.47499219e-01 2.92130475e-01 5.54512498e-01
+  7.16812586e-01 6.40113958e-01 9.45391993e-01 5.90222696e-01
+  5.94144114e-01 6.64925418e-01 2.68563089e-01 6.69386622e-01
+  5.08368108e-01 4.81383981e-01 1.70267423e-01 4.50019717e-01
+  7.34190284e-01 8.53886744e-01 8.79444939e-01 3.05533129e-01
+  1.04481543e-01 8.99220315e-01 2.41282523e-01 3.04289223e-01
+  4.86596942e-01 6.72404705e-01 2.75899168e-01 8.50925020e-01
+  7.77036679e-01 1.73562305e-01 3.90647540e-01 9.99170984e-01
+  5.77541620e-01 1.48005168e-01 9.80476322e-01 8.10658735e-01
+  1.37479750e-01 5.45102377e-01 8.97900339e-01 5.65507859e-01
+  7.09810935e-01 5.38052289e-01 8.66742664e-02 3.51893922e-02
+  3.25897868e-01 5.20616191e-02 3.02654994e-01 5.01306286e-01
+  7.16764086e-01 1.53531727e-01 1.26357271e-01 9.28906215e-01
+  2.70500723e-01 6.80541659e-01 4.70047707e-01 8.39748282e-01
+  9.94488396e-01 3.84986470e-01 4.17798105e-01 5.55396396e-01
+  8.91726006e-01 7.69522943e-01 3.20985802e-01 4.19367212e-01
+  3.75962644e-01 9.60535700e-01 2.02150809e-02 5.78478606e-01
+  4.39847439e-01 1.97840973e-01 2.13721503e-01 3.20856236e-01
+  1.23585168e-01 7.61352817e-01 2.55686447e-01 1.62900200e-01
+  2.24255322e-01 7.30505526e-01 9.72931505e-01 2.88875575e-01
+  3.27881061e-01 6.35867705e-01 6.44523697e-01 2.08594589e-01
+  2.21714382e-01 3.25933963e-01 6.41772180e-01 9.33852221e-01
+  2.79803766e-01 7.34777009e-01 2.01367295e-01 6.83064151e-01
+  5.47955515e-01 8.93858566e-01 4.30450689e-01 1.69998748e-01
+  7.60287958e-01 1.24401643e-01 9.50798692e-01 1.79695359e-01
+  7.85789238e-01 8.03380247e-01 9.99993361e-01 2.50616445e-01
+  1.60631415e-01 1.31189890e-01 8.46697759e-01 2.44598576e-01
+  8.47908207e-03 7.78088377e-01 8.19344475e-01 6.39176387e-01
+  6.20490751e-01 1.73500840e-01 3.58959724e-01 5.01057152e-01
+  8.43844474e-01 7.06345138e-01 8.90156769e-01 4.70201197e-01
+  5.20747567e-01 8.27285561e-01 1.07471818e-01 3.60477754e-01
+  1.97561332e-01 5.06969459e-01 1.92548183e-01 6.03635529e-02
+  5.19279726e-01 2.32808960e-01 2.18418712e-01 8.74839936e-01
+  6.97463635e-01 4.02921386e-01 9.70809687e-01 5.36776249e-01
+  8.72057168e-01 2.86039988e-01 3.26017552e-01 1.99895842e-02
+  9.19072773e-01 5.08138418e-01 3.14026583e-01 4.51653789e-01
+  7.08947690e-01 9.53966208e-01 6.66667236e-01 8.99092651e-01
+  2.78194876e-01 2.40578354e-01 6.32400925e-01 1.18074669e-01
+  2.63674522e-01 7.82947354e-01 6.43053662e-01 8.55899518e-01
+  7.54874491e-01 8.89973311e-01 5.82299205e-01 7.84096843e-01
+  6.11126841e-01 5.98271921e-01 6.70031687e-01 1.56415768e-01
+  7.86002992e-01 8.49618278e-01 1.58336007e-01 2.41706769e-01
+  1.63662148e-01 3.75639456e-01 6.07748731e-01 5.47135930e-01
+  9.10594895e-01 6.17152590e-01 5.61007994e-01 3.95156424e-02
+  9.74548679e-01 5.66271882e-01 6.66188082e-01 6.35654383e-01
+  3.49189751e-01 1.13987155e-01 8.15610948e-01 2.15154238e-01
+  8.24821465e-01 4.39309994e-01 6.78628928e-01 7.81400731e-01
+  7.46873336e-01 9.92165019e-01 2.33985531e-01 8.95621916e-01
+  1.14345237e-01 3.46407202e-01 7.35299706e-01 7.07384601e-01
+  5.35465266e-01 4.97026299e-01 9.95211736e-01 3.45651873e-01
+  6.00327395e-01 8.39787507e-01 2.05537032e-01 5.20299618e-01
+  7.91464527e-01 1.27967175e-01 6.78263027e-01 9.64440116e-03
+  3.02400289e-01 2.86126617e-01 8.88017523e-01 5.86065250e-02
+  5.91316938e-01 7.54815151e-01 3.12734369e-01 5.49940786e-01
+  5.64720462e-01 1.66815018e-01 5.01526853e-01 2.63048893e-01
+  4.97204530e-01 1.34874058e-01 8.94141881e-01 9.12943991e-01
+  1.41818229e-01 2.44563833e-01 7.27968252e-01 8.40042072e-01]].tiff' failed: No error
+2025-02-12 20:59:02 | house_price | ERROR | failed to get satellite image
+2025-02-12 20:59:02 | house_price | INFO | Failed Extract Feature: Attempt to create new tiff file `D:\ML5\final_projectt\artifacts\data_prediction\image_[[6.18213528e-01 8.45731886e-01 2.29368697e-01 2.53928063e-01
+  9.70823644e-01 8.78614887e-01 7.32371165e-01 4.11592340e-01
+  7.52198648e-01 8.53444027e-02 8.53341069e-01 3.18643078e-02
+  8.81746353e-01 5.78954782e-01 2.79550268e-02 7.28515244e-02
+  4.21629051e-01 8.33033451e-01 6.58744788e-01 8.40197716e-01
+  8.13535705e-01 8.56173473e-01 8.43970269e-01 8.11842813e-01
+  2.56412504e-01 1.85879987e-01 1.61021706e-01 7.77760817e-01
+  2.73308145e-01 4.45830630e-01 7.52029718e-01 9.87157109e-01
+  3.72389900e-01 4.44863387e-01 8.79985102e-01 2.42228881e-01
+  2.52716639e-01 3.53882660e-01 9.33571037e-01 8.63241468e-01
+  1.63962940e-01 8.66122423e-01 5.55246468e-02 1.55754073e-01
+  3.28276087e-01 9.30144057e-01 4.80642004e-01 9.13054234e-01
+  7.10601675e-02 5.86643745e-01 5.72833210e-01 7.94566767e-01
+  3.88558995e-01 9.75362178e-01 5.20585948e-01 7.12637446e-01
+  9.72742631e-01 8.51050518e-01 3.93748353e-01 8.54191024e-01
+  2.88733863e-01 4.39722770e-01 1.17842483e-01 1.80485837e-01
+  8.23302358e-01 9.48165738e-01 2.90842519e-01 9.70582026e-01
+  4.57018375e-01 9.86663123e-01 3.56440039e-01 7.90873812e-01
+  4.56129908e-01 7.40253653e-01 4.63592158e-02 1.17518859e-01
+  7.04722271e-01 9.71129176e-01 7.86253244e-01 3.10871244e-01
+  4.24077918e-01 5.25377295e-01 2.44162113e-01 9.07360157e-01
+  5.22854933e-01 5.26254019e-01 4.13652757e-01 7.84617754e-01
+  2.69891058e-01 9.54398052e-01 5.92378109e-01 7.04629522e-01
+  3.63089295e-01 7.85188088e-01 2.73556563e-01 3.89757494e-02
+  5.60426912e-01 2.46251451e-01 6.27256083e-01 4.73739114e-01
+  9.28710010e-01 2.28622579e-02 9.61006954e-02 4.51377067e-01
+  2.11256465e-01 6.93481470e-02 6.54738043e-01 5.86168584e-02
+  9.72240725e-01 5.92650989e-01 6.95448236e-01 2.84677602e-01
+  9.13134656e-01 6.21529691e-01 3.40876825e-02 1.54434575e-01
+  2.97786439e-01 2.52465481e-01 3.88317235e-01 5.31213068e-01
+  1.66345770e-01 9.44874373e-01 3.25973652e-01 7.18302037e-01
+  3.63906979e-01 3.21979443e-01 8.33768713e-01 7.14324786e-01
+  1.50880205e-01 1.45761634e-01 8.11584338e-01 3.10694593e-01
+  6.69157260e-01 5.18489412e-01 5.01914959e-01 1.37029544e-01
+  6.04938047e-01 1.12547260e-01 4.97321158e-01 3.44952975e-01
+  9.88341963e-01 4.71625437e-01 4.87569460e-01 2.97472089e-01
+  9.69306863e-01 4.52597542e-01 6.43993065e-01 4.60125706e-01
+  5.82469992e-01 4.85795552e-01 5.06947055e-01 3.89070899e-01
+  4.28039394e-01 4.70372188e-01 1.03753139e-01 1.36079041e-01
+  4.19702705e-01 2.42028638e-01 5.78962165e-01 7.47843042e-01
+  4.50781957e-01 3.53083035e-01 7.80469666e-01 9.45045689e-01
+  2.50802495e-02 6.69901645e-01 4.36390742e-01 7.99099511e-01
+  9.30219145e-01 3.64860327e-01 1.90401433e-01 4.74859458e-01
+  3.57623450e-01 7.26651402e-01 5.91155421e-01 4.57732223e-02
+  2.17674129e-01 8.73472324e-01 6.00495959e-01 8.08336057e-01
+  7.65023970e-01 7.57178390e-03 7.37974442e-01 4.99118787e-01
+  8.18472997e-01 1.04416339e-01 8.62470982e-01 8.85225013e-01
+  9.60292690e-01 1.71090578e-01 6.99711186e-01 5.75701629e-01
+  3.72070134e-01 1.65291691e-01 3.67500777e-01 9.21319895e-01
+  9.06529316e-01 4.65641165e-01 3.44979485e-01 4.94282797e-01
+  8.35693456e-02 3.65807088e-01 1.56996041e-01 3.57115723e-01
+  2.54452013e-01 2.55142790e-01 1.11070268e-01 4.78008146e-01
+  6.51146598e-01 9.10023646e-01 4.00658892e-01 4.63791691e-01
+  6.02550736e-01 8.31306375e-01 4.61194217e-01 6.72991501e-01
+  1.25914947e-01 6.71202343e-01 7.08792543e-02 2.73498432e-01
+  2.92314140e-01 4.57105988e-01 1.22318604e-02 1.60628797e-01
+  8.21287920e-01 2.36076963e-02 5.01900377e-01 5.27415573e-01
+  2.48665912e-01 8.00607791e-01 6.77359169e-01 9.47749147e-01
+  6.93751262e-01 6.89658641e-01 7.73966383e-02 5.24748726e-01
+  8.47788391e-01 9.77845858e-01 9.44739947e-01 8.70969492e-01
+  4.13772910e-01 9.91042414e-01 1.97038951e-01 1.88389121e-01
+  2.54630560e-01 1.74952675e-01 4.14355366e-01 7.51378356e-01
+  7.70171675e-01 6.59361271e-01 4.85802855e-01 8.98884725e-01
+  8.40982228e-01 7.87002281e-01 1.78160495e-02 1.68329425e-01
+  1.04125259e-01 4.39516992e-01 1.53706581e-02 4.23101560e-01
+  8.20277736e-01 2.76067986e-01 1.03454673e-01 8.40339505e-01
+  4.25307780e-01 7.31614263e-01 5.65102695e-02 5.35539092e-01
+  1.89992610e-01 5.38597622e-01 5.15920539e-01 8.22266072e-01
+  5.02776723e-01 1.22484714e-01 6.93809501e-01 2.66624878e-01
+  4.04286383e-02 2.82397788e-01 7.80679804e-01 3.35101726e-01
+  4.57825120e-01 8.42908096e-01 6.07561093e-01 9.56188131e-01
+  6.57927813e-01 2.57261732e-01 3.88469759e-01 9.11094380e-01
+  2.13361542e-01 6.15337794e-01 8.57601370e-01 8.00106000e-02
+  6.57254637e-01 5.73007232e-01 8.82528314e-01 3.61690353e-01
+  9.78186302e-01 4.92883771e-01 4.84582582e-01 2.81880413e-01
+  8.27771836e-01 6.47888354e-01 9.82046616e-01 9.87553712e-01
+  4.14640759e-02 1.19347547e-02 8.80318264e-01 6.89053764e-01
+  2.59903133e-02 2.23651184e-01 6.09532418e-01 2.09266013e-01
+  2.33843037e-01 9.32551963e-01 9.56022795e-01 8.92068327e-01
+  2.97026313e-01 9.98250326e-01 1.45704092e-01 6.21002289e-01
+  9.05088657e-01 3.79162736e-01 8.17559125e-01 5.07741412e-01
+  1.53979634e-01 2.18366052e-01 8.26636684e-01 8.34647008e-01
+  2.37104731e-01 4.41059683e-01 5.02980868e-01 8.38002244e-02
+  9.31557852e-01 9.96185141e-01 8.66290959e-01 5.94555686e-01
+  4.98976134e-01 5.80573644e-01 5.14677488e-01 5.95630701e-01
+  2.27365966e-02 6.70813124e-01 5.37359676e-01 3.97418731e-01
+  6.13122700e-01 9.58244608e-01 8.44125123e-01 7.24893083e-02
+  9.17329110e-01 1.55284251e-01 7.86038031e-01 9.17336170e-01
+  6.62467809e-01 3.54312121e-01 3.18827872e-01 7.14234754e-01
+  4.51331428e-02 8.09597052e-01 9.50505302e-01 3.94126507e-02
+  3.14752795e-01 7.08099796e-01 2.11610470e-01 2.75654240e-01
+  4.10144825e-01 4.14934594e-01 8.83878150e-01 7.40639264e-01
+  3.18479331e-01 9.72190851e-01 6.89275686e-01 7.57439726e-01
+  5.77503210e-02 1.21336239e-01 2.24858506e-01 2.23772306e-01
+  7.09597003e-01 4.82011313e-01 7.95781377e-01 8.75359893e-01
+  2.48859084e-01 9.39337871e-02 4.03160179e-01 9.26555623e-01
+  8.45953654e-01 6.07603786e-01 7.32552651e-01 3.15431590e-01
+  2.68088732e-01 6.14830648e-01 3.43223402e-01 7.14785375e-01
+  9.27256798e-01 1.87567831e-01 7.26586273e-01 8.21962191e-02
+  7.05375515e-02 9.70537161e-01 4.16803397e-01 6.45230340e-01
+  8.07283837e-01 2.17180525e-01 1.31518770e-01 8.34560473e-01
+  3.58351040e-04 7.61801523e-01 8.81120231e-01 3.16182141e-01
+  4.85813216e-01 1.81616999e-01 3.21564307e-02 1.46283820e-01
+  9.88655573e-01 5.07824440e-01 8.34048272e-01 8.52226970e-01
+  6.42709249e-01 6.28203898e-02 1.92127858e-01 7.49033945e-01
+  7.32999210e-01 9.39865453e-01 5.24728432e-01 1.38421238e-01
+  2.20173570e-01 7.62606086e-01 6.66851904e-02 6.44988937e-01
+  5.66867378e-01 2.74717334e-01 2.05862732e-01 8.20706701e-01
+  1.37979976e-01 1.73053026e-01 9.33774036e-01 2.46434253e-01
+  4.08364905e-04 3.98208950e-01 6.92051671e-01 4.18412808e-01
+  9.74518722e-01 7.50840590e-01 1.99380739e-01 4.78544024e-01
+  8.57450142e-01 2.50514799e-01 8.86784683e-01 2.20252837e-01
+  3.96131813e-01 1.05293427e-01 8.67562077e-01 7.43130264e-02
+  2.89190251e-01 9.21081959e-01 9.52148192e-02 4.38963644e-01
+  5.86803937e-01 4.84276545e-01 9.48332983e-01 9.74531715e-02
+  1.66671064e-01 5.54134439e-01 9.12570310e-01 1.78315294e-01
+  7.19199288e-01 2.82189858e-01 5.30592564e-01 4.03495129e-01
+  3.80336732e-01 4.71482194e-01 4.55954731e-01 5.04538984e-01
+  2.54602711e-01 2.77205277e-01 7.77020176e-01 2.40203216e-02
+  5.65029397e-01 4.07689542e-01 5.08370305e-01 8.41900033e-02
+  5.63457790e-01 8.20027890e-01 4.72071416e-01 9.98333620e-01
+  4.08782597e-02 6.53832924e-01 5.46633258e-01 8.79931245e-01
+  2.82542126e-01 7.88719784e-01 6.70593983e-01 3.01908326e-01
+  4.21084336e-01 5.14890509e-02 1.08520518e-01 4.08740033e-01
+  7.32385716e-01 1.04701353e-01 5.12144604e-01 1.29895296e-01
+  5.86462608e-01 5.67283560e-01 7.15769939e-01 7.68166898e-01
+  5.13722983e-01 7.91134515e-01 5.17382282e-01 7.27538926e-02
+  9.72788497e-01 5.95011314e-01 7.50617154e-03 2.82628311e-01
+  5.54199182e-01 4.91741854e-01 3.14238983e-02 9.50841690e-01
+  7.56784725e-01 1.08797861e-01 1.96637543e-01 7.93371468e-01
+  5.03647378e-01 8.34281810e-01 3.06549922e-01 8.26244782e-01
+  5.14076783e-01 6.39709074e-01 2.12852505e-01 2.93422572e-01
+  7.13132456e-01 8.01387471e-01 2.40477467e-02 5.31193418e-01
+  9.09291193e-01 4.83406709e-01 7.10957447e-01 3.71756569e-01
+  7.74459775e-01 1.53145835e-01 8.87504590e-01 8.30486202e-01
+  6.80134114e-01 3.16488402e-01 4.81388319e-01 6.14121065e-01
+  8.97963326e-04 8.37946791e-01 3.74210152e-01 6.85715414e-01
+  5.37919625e-01 4.23951054e-01 5.92228581e-01 7.87256452e-01
+  9.36190952e-01 7.04799362e-01 1.46268024e-01 2.11993305e-01
+  6.38829770e-01 5.65662368e-01 1.08441539e-01 8.69934351e-01
+  7.10573948e-01 5.17151096e-02 3.59549190e-01 3.23551622e-01
+  3.01159900e-01 3.89625015e-01 9.63380487e-01 2.85345185e-01
+  6.99329004e-01 7.79316903e-01 3.45120372e-01 5.05500709e-01
+  2.80354370e-01 3.73131234e-01 3.86234112e-03 8.31955210e-01
+  9.53963820e-02 2.13472258e-02 4.31208006e-01 9.04220076e-01
+  6.58533675e-01 4.69054726e-01 4.36511643e-03 3.55712532e-01
+  9.56358071e-01 8.26741275e-01 3.51715168e-01 8.76084259e-01
+  7.08121071e-01 8.80674505e-01 3.53462321e-01 6.07732671e-01
+  4.37991004e-01 8.57693210e-01 4.27159805e-01 4.07000590e-01
+  2.74872166e-01 6.70322208e-01 5.41701610e-01 9.06608862e-01
+  2.59363905e-01 8.72720553e-01 3.93857154e-01 2.61445073e-01
+  1.19186091e-01 8.28888292e-01 9.21730482e-01 1.81840240e-01
+  6.53767329e-01 2.24511530e-01 9.32799337e-01 9.62988189e-01
+  2.09590704e-01 4.08020845e-03 6.24502674e-01 9.85120106e-01
+  4.56400327e-01 4.88080694e-02 5.62575449e-01 8.03336609e-01
+  9.00331755e-01 9.41554702e-01 1.17674767e-01 3.44496293e-01
+  6.13666313e-01 5.40198854e-01 7.11071312e-01 2.15543825e-01
+  3.56324237e-01 5.87382172e-01 8.46318733e-01 7.99927925e-01
+  8.98517164e-01 3.10288063e-01 9.24522124e-01 3.47263491e-01
+  4.29629531e-01 1.74235714e-01 2.67990160e-01 5.04328087e-01
+  4.50919937e-03 8.03267897e-01 6.54611157e-01 5.34067739e-01
+  6.04009390e-01 7.54542201e-01 5.18448192e-01 2.21399988e-01
+  4.46804329e-01 2.59019704e-01 3.44033584e-01 4.30152489e-01
+  1.84482509e-01 4.99634055e-01 7.36616326e-01 6.55258410e-01
+  2.20532495e-01 8.18087752e-01 2.93720777e-01 7.23782014e-01
+  6.15734257e-01 7.09037665e-01 6.45563095e-02 5.54534891e-01
+  8.48333889e-01 3.17405736e-01 3.66852865e-01 7.45570108e-01
+  8.26857307e-01 7.70350001e-02 3.61769924e-01 9.05729730e-01
+  3.06620276e-01 8.96507404e-01 1.25287413e-01 5.39729870e-01
+  3.07217878e-01 3.19388702e-01 6.44293150e-02 4.39463927e-01
+  2.65468465e-01 9.47223265e-01 8.13939502e-02 6.50658140e-01
+  8.90396739e-01 2.06140690e-01 5.42527528e-01 1.84213620e-01
+  5.66348591e-01 6.68821138e-01 2.58007811e-01 5.35884769e-01
+  9.92299145e-01 3.24394688e-02 4.15005491e-01 4.72104903e-01
+  6.51797890e-01 6.58928929e-01 8.88295031e-01 1.54289923e-01
+  4.72107068e-01 9.98312410e-01 6.29455748e-01 6.08108758e-01
+  7.57074940e-01 5.33764770e-01 5.94329070e-01 9.41336591e-01
+  8.72397764e-01 4.75645786e-01 6.45700981e-01 4.39041298e-01
+  7.27741600e-01 7.09740590e-02 5.31232275e-01 4.28468760e-01
+  3.58512785e-01 8.07243028e-01 3.50743558e-01 3.33346791e-01
+  5.25994696e-01 6.49437220e-01 9.82210859e-01 6.78814015e-01
+  9.94267504e-01 8.88298121e-02 9.09274741e-01 1.06468001e-01
+  6.66249596e-01 6.55838578e-01 9.23220249e-01 2.35451866e-01
+  8.43111968e-01 8.92232472e-01 4.20761999e-02 5.45871127e-01
+  5.33960055e-01 1.21002407e-01 4.89366740e-02 3.04149542e-01
+  9.41696747e-01 4.80912716e-01 3.80501708e-01 9.28125216e-01
+  1.84778555e-01 3.75272720e-01 7.75939258e-02 2.32310976e-01
+  4.07314305e-01 9.29026236e-02 5.25389433e-01 2.55126067e-01
+  6.19846856e-01 4.06797854e-01 8.78988439e-01 9.35587555e-01
+  7.12284215e-01 8.18891471e-01 7.32315322e-01 5.24400677e-01
+  8.86617287e-01 6.20668252e-01 6.55211155e-01 5.69688514e-01
+  7.11100856e-01 1.60510392e-01 5.25844436e-01 3.98722808e-01
+  5.33813897e-01 4.82462501e-01 1.11947823e-01 1.95165691e-01
+  5.17859304e-01 4.85492304e-01 7.44587838e-01 4.36177247e-01
+  8.65011283e-01 6.68482657e-01 5.98902060e-01 6.91548836e-01
+  2.97511615e-01 3.38843465e-01 8.93015415e-01 2.42874035e-01
+  5.49652208e-01 1.23652672e-01 2.17201880e-01 2.21961817e-01
+  4.90273938e-01 1.92522385e-01 9.01662276e-01 1.13833494e-01
+  3.73629844e-01 3.05201265e-01 7.23630630e-01 6.25998444e-01
+  7.86314776e-01 2.25062887e-02 3.65668999e-01 1.12438567e-01
+  7.92519526e-01 4.35617326e-01 5.69306508e-01 3.17280918e-01
+  3.06690539e-01 1.87458750e-01 7.53466582e-01 5.53969591e-01
+  4.42905036e-01 7.85869745e-01 5.37881629e-01 8.31585303e-01
+  1.27209766e-01 3.83854745e-01 9.48429430e-01 7.38743679e-01
+  3.03873689e-02 9.93573571e-01 9.44667379e-01 3.13753711e-02
+  7.62174014e-01 4.38661915e-01 8.39105498e-02 3.62871532e-01
+  4.77808206e-01 7.11041965e-01 7.99265360e-01 3.64647439e-01
+  4.76107826e-01 8.86168439e-01 9.51069783e-01 6.13089089e-01
+  7.52659168e-01 2.49578450e-01 6.79122044e-01 2.12715259e-01
+  1.87691420e-01 1.90115484e-01 8.14195255e-03 7.90731793e-01
+  7.54806427e-01 7.28968842e-01 8.72420041e-01 7.28031391e-01
+  3.37685671e-01 2.55488309e-01 8.28820118e-01 7.51789283e-01
+  9.64628086e-02 8.11285439e-01 2.69368803e-02 9.62297081e-01
+  7.46269759e-01 5.62912351e-01 7.70370477e-01 2.19824978e-01
+  8.42803111e-01 2.93040209e-01 2.24251785e-01 3.36490556e-01
+  2.63744564e-01 4.32492479e-01 4.28309785e-01 7.72439191e-01
+  4.52096850e-01 2.30901207e-01 3.84915145e-01 2.14401283e-01
+  1.76093472e-01 4.74573614e-01 2.47007253e-01 7.37048526e-01
+  2.76330815e-02 6.31064357e-01 8.01302639e-02 7.22115166e-01
+  7.28345026e-01 4.44021683e-02 8.14330119e-01 5.24118867e-01
+  3.29174803e-01 8.91318915e-01 2.77391822e-01 9.31093102e-01
+  4.07207546e-01 1.29632896e-01 7.33501666e-01 9.77924077e-01
+  3.03426402e-01 7.20187372e-02 5.99944009e-01 1.66287813e-01
+  4.81669372e-02 8.19630766e-02 4.59482087e-01 4.27660629e-01
+  7.35044761e-01 2.32565102e-01 3.31897405e-01 5.95659921e-01
+  8.22305608e-01 3.96262512e-01 5.77631959e-01 8.36069298e-01
+  5.18252896e-01 7.70476942e-02 7.24745245e-01 1.52602451e-04
+  5.81392654e-02 9.38226749e-01 4.36438675e-01 2.60364720e-01
+  7.54287096e-02 7.43243316e-01 5.43152172e-01 2.99152220e-01
+  2.26917269e-01 2.37355241e-01 6.37074539e-01 2.02165669e-01
+  3.17090949e-01 3.60086562e-01 1.33302377e-01 1.65671454e-02
+  2.46073822e-02 3.10123278e-02 3.07114341e-01 9.69864601e-02
+  3.14156688e-01 8.91532042e-01 7.17951714e-01 2.23436300e-01
+  4.37727644e-01 5.18808788e-01 4.20872593e-01 6.78915963e-01
+  1.05735926e-01 6.13305810e-01 5.36157307e-01 9.84064375e-01
+  5.59210999e-01 7.56839275e-02 5.79236459e-01 7.52154295e-01
+  9.58038486e-01 4.39902035e-01 7.32064331e-01 6.11996750e-01
+  2.68056674e-01 5.81175021e-01 4.49000192e-01 3.01220564e-01
+  9.21714608e-01 6.13874650e-01 3.13947000e-01 9.85782416e-01
+  4.79722733e-01 7.56373758e-01 3.48673500e-01 2.01743257e-01
+  2.06743313e-01 7.57760348e-01 4.15860107e-01 3.35498586e-01
+  3.85701466e-01 7.11407218e-02 5.65820044e-01 3.10196324e-01
+  7.76130763e-01 2.60791310e-01 6.79628791e-01 6.69838797e-01
+  7.11113660e-01 6.79735216e-01 5.76923203e-01 1.74705856e-01
+  1.59002715e-01 1.80238985e-01 8.44837959e-01 1.81221384e-01
+  9.46262240e-01 7.16738984e-01 7.54318807e-01 2.63592051e-01
+  8.19838524e-02 6.13018390e-01 4.01648849e-02 4.89109017e-01
+  3.58377481e-01 1.51461830e-01 6.47704930e-01 9.58194739e-01
+  3.24571770e-01 9.56152207e-01 1.07156631e-02 2.76742524e-01
+  5.79982006e-01 6.15496648e-01 9.63607816e-01 5.49617188e-01]].tiff' failed: No error
+2025-02-12 20:59:26 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model\model.pkl
+2025-02-12 20:59:26 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 20:59:28 | house_price | INFO | model load succesfully
+2025-02-12 20:59:28 | house_price | INFO | Load scaller succes
+2025-02-12 20:59:28 | house_price | INFO | Load data succes
+2025-02-12 21:00:45 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 21:00:45 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 21:00:45 | house_price | INFO | model load succesfully
+2025-02-12 21:00:45 | house_price | INFO | Load scaller succes
+2025-02-12 21:00:45 | house_price | INFO | Load data succes
+2025-02-12 21:02:16 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 21:02:16 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 21:02:16 | house_price | INFO | model load succesfully
+2025-02-12 21:02:16 | house_price | INFO | Load scaller succes
+2025-02-12 21:02:16 | house_price | INFO | Load data succes
+2025-02-12 21:02:21 | house_price | INFO | Prediction successful: [[18.138504]]
+2025-02-12 21:05:30 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 21:05:30 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 21:05:31 | house_price | INFO | model load succesfully
+2025-02-12 21:05:31 | house_price | INFO | Load scaller succes
+2025-02-12 21:05:44 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 21:05:44 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 21:05:45 | house_price | INFO | model load succesfully
+2025-02-12 21:05:45 | house_price | INFO | Load scaller succes
+2025-02-12 21:05:45 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:05:45 | house_price | ERROR | failed to load data: Length of values (6) does not match length of index (1)
+2025-02-12 21:05:51 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:05:51 | house_price | ERROR | failed to load data: Length of values (6) does not match length of index (1)
+2025-02-12 21:19:38 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 21:19:38 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 21:19:40 | house_price | INFO | model load succesfully
+2025-02-12 21:19:40 | house_price | INFO | Load scaller succes
+2025-02-12 21:19:40 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:19:40 | house_price | ERROR | failed to load data: 'HouseData' object has no attribute 'to_dict'
+2025-02-12 21:22:35 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 21:22:35 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 21:22:36 | house_price | INFO | model load succesfully
+2025-02-12 21:22:36 | house_price | INFO | Load scaller succes
+2025-02-12 21:22:36 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:22:36 | house_price | INFO | Load data succes
+2025-02-12 21:22:36 | house_price | ERROR | failed to get satellite image
+2025-02-12 21:22:36 | house_price | INFO | Failed Extract Feature: name 'time' is not defined
+2025-02-12 21:23:08 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:23:08 | house_price | INFO | Load data succes
+2025-02-12 21:23:08 | house_price | ERROR | failed to get satellite image
+2025-02-12 21:23:08 | house_price | INFO | Failed Extract Feature: name 'time' is not defined
+2025-02-12 21:23:39 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 21:23:39 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 21:23:41 | house_price | INFO | model load succesfully
+2025-02-12 21:23:41 | house_price | INFO | Load scaller succes
+2025-02-12 21:23:41 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:23:41 | house_price | INFO | Load data succes
+2025-02-12 21:24:49 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\artifacts\model.pkl
+2025-02-12 21:24:49 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 21:24:49 | house_price | ERROR | failed to load model: [Errno 2] No such file or directory: 'D:\\ML5\\final_projectt\\artifacts\\model.pkl'
+2025-02-12 21:27:47 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 21:27:47 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 21:27:47 | house_price | INFO | model load succesfully
+2025-02-12 21:27:47 | house_price | INFO | Load scaller succes
+2025-02-12 21:27:47 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:27:47 | house_price | INFO | Load data succes
+2025-02-12 21:46:47 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":200,"land_area":200,"latitude":0.0,"longitude":0.0}
+2025-02-12 21:46:47 | house_price | INFO | Load data succes
+2025-02-12 21:46:48 | house_price | ERROR | failed to get satellite image
+2025-02-12 21:46:48 | house_price | INFO | Failed Extract Feature: 'NoneType' object has no attribute 'crop'
+2025-02-12 21:47:27 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:47:27 | house_price | INFO | Load data succes
+2025-02-12 21:50:23 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":200,"land_area":310,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:50:23 | house_price | INFO | Load data succes
+2025-02-12 21:50:53 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":200,"land_area":310,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:50:53 | house_price | INFO | Load data succes
+2025-02-12 21:51:45 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":200,"land_area":200,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:51:45 | house_price | INFO | Load data succes
+2025-02-12 21:52:04 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":200,"land_area":200,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:52:04 | house_price | INFO | Load data succes
+2025-02-12 21:52:45 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":200,"land_area":200,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:52:45 | house_price | INFO | Load data succes
+2025-02-12 21:53:00 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":200,"land_area":360,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:53:00 | house_price | INFO | Load data succes
+2025-02-12 21:53:15 | house_price | INFO | Received data for prediction: {"bedroom":4,"bathroom":4,"building_area":460,"land_area":360,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:53:15 | house_price | INFO | Load data succes
+2025-02-12 21:53:50 | house_price | INFO | Received data for prediction: {"bedroom":4,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 21:53:50 | house_price | INFO | Load data succes
+2025-02-12 21:59:52 | house_price | INFO | Prediction successful: 75414040
+2025-02-12 22:04:15 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:04:15 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:04:15 | house_price | INFO | model load succesfully
+2025-02-12 22:04:15 | house_price | INFO | Load scaller succes
+2025-02-12 22:04:15 | house_price | INFO | Load data succes
+2025-02-12 22:04:20 | house_price | INFO | Prediction successful: 75414040
+2025-02-12 22:06:40 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:06:40 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:06:41 | house_price | INFO | model load succesfully
+2025-02-12 22:06:41 | house_price | INFO | Load scaller succes
+2025-02-12 22:06:41 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:06:41 | house_price | INFO | Load data succes
+2025-02-12 22:15:20 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:15:20 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:15:21 | house_price | INFO | model load succesfully
+2025-02-12 22:15:21 | house_price | INFO | Load scaller succes
+2025-02-12 22:15:21 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:15:21 | house_price | INFO | Load data succes
+2025-02-12 22:15:40 | house_price | ERROR | Prediction failed: Cannot handle this data type: (1, 1, 224, 3), |u1
+2025-02-12 22:18:25 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:18:25 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:18:26 | house_price | INFO | model load succesfully
+2025-02-12 22:18:26 | house_price | INFO | Load scaller succes
+2025-02-12 22:18:26 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:18:26 | house_price | INFO | Load data succes
+2025-02-12 22:21:28 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:21:28 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:21:29 | house_price | INFO | model load succesfully
+2025-02-12 22:21:29 | house_price | INFO | Load scaller succes
+2025-02-12 22:21:29 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:21:29 | house_price | INFO | Load data succes
+2025-02-12 22:21:33 | house_price | ERROR | Prediction failed: Cannot handle this data type: (1, 1, 224, 3), |u1
+2025-02-12 22:24:00 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:24:00 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:24:02 | house_price | INFO | model load succesfully
+2025-02-12 22:24:02 | house_price | INFO | Load scaller succes
+2025-02-12 22:24:02 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:24:02 | house_price | INFO | Load data succes
+2025-02-12 22:28:03 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:28:03 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:28:04 | house_price | INFO | model load succesfully
+2025-02-12 22:28:04 | house_price | INFO | Load scaller succes
+2025-02-12 22:28:04 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:28:04 | house_price | INFO | Load data succes
+2025-02-12 22:28:16 | house_price | ERROR | Prediction failed: Cannot handle this data type: (1, 1, 224, 3), |u1
+2025-02-12 22:28:36 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:28:36 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:28:37 | house_price | INFO | model load succesfully
+2025-02-12 22:28:37 | house_price | INFO | Load scaller succes
+2025-02-12 22:28:37 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:28:37 | house_price | INFO | Load data succes
+2025-02-12 22:29:14 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:29:14 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:29:16 | house_price | INFO | model load succesfully
+2025-02-12 22:29:16 | house_price | INFO | Load scaller succes
+2025-02-12 22:29:16 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:29:16 | house_price | INFO | Load data succes
+2025-02-12 22:34:34 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:34:34 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:34:36 | house_price | INFO | model load succesfully
+2025-02-12 22:34:36 | house_price | INFO | Load scaller succes
+2025-02-12 22:34:36 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:34:36 | house_price | INFO | Load data succes
+2025-02-12 22:34:39 | house_price | ERROR | Prediction failed: Preprocessor.convert_geometry() takes 1 positional argument but 2 were given
+2025-02-12 22:35:47 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:35:47 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:35:49 | house_price | INFO | model load succesfully
+2025-02-12 22:35:49 | house_price | INFO | Load scaller succes
+2025-02-12 22:35:49 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:35:49 | house_price | INFO | Load data succes
+2025-02-12 22:35:53 | house_price | ERROR | Prediction failed: Preprocessor.convert_geometry() takes 1 positional argument but 2 were given
+2025-02-12 22:36:55 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:36:55 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:36:56 | house_price | INFO | model load succesfully
+2025-02-12 22:36:56 | house_price | INFO | Load scaller succes
+2025-02-12 22:36:56 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:36:56 | house_price | INFO | Load data succes
+2025-02-12 22:37:04 | house_price | ERROR | Prediction failed: Preprocessor.convert_geometry() takes 1 positional argument but 2 were given
+2025-02-12 22:37:51 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:37:51 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:37:51 | house_price | INFO | model load succesfully
+2025-02-12 22:37:51 | house_price | INFO | Load scaller succes
+2025-02-12 22:37:51 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:37:51 | house_price | INFO | Load data succes
+2025-02-12 22:41:43 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:41:43 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:41:44 | house_price | INFO | model load succesfully
+2025-02-12 22:41:45 | house_price | INFO | Load scaller succes
+2025-02-12 22:41:45 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:41:45 | house_price | INFO | Load data succes
+2025-02-12 22:44:17 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:44:17 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:44:18 | house_price | INFO | model load succesfully
+2025-02-12 22:44:18 | house_price | INFO | Load scaller succes
+2025-02-12 22:44:18 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:44:18 | house_price | INFO | Load data succes
+2025-02-12 22:44:50 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:44:50 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:44:50 | house_price | INFO | model load succesfully
+2025-02-12 22:44:50 | house_price | INFO | Load scaller succes
+2025-02-12 22:45:23 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:45:23 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:45:24 | house_price | INFO | model load succesfully
+2025-02-12 22:45:24 | house_price | INFO | Load scaller succes
+2025-02-12 22:45:24 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:45:24 | house_price | INFO | Load data succes
+2025-02-12 22:47:08 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:47:08 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:47:10 | house_price | INFO | model load succesfully
+2025-02-12 22:47:10 | house_price | INFO | Load scaller succes
+2025-02-12 22:47:10 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:47:10 | house_price | INFO | Load data succes
+2025-02-12 22:48:38 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:48:38 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:48:38 | house_price | INFO | model load succesfully
+2025-02-12 22:48:38 | house_price | INFO | Load scaller succes
+2025-02-12 22:48:54 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 22:48:54 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 22:48:56 | house_price | INFO | model load succesfully
+2025-02-12 22:48:56 | house_price | INFO | Load scaller succes
+2025-02-12 22:48:56 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:48:56 | house_price | INFO | Load data succes
+2025-02-12 22:50:33 | house_price | INFO | Received data for prediction: {"bedroom":4,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 22:50:33 | house_price | INFO | Load data succes
+2025-02-12 23:03:43 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:03:43 | house_price | INFO | Load data succes
+2025-02-12 23:04:07 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:04:07 | house_price | INFO | Load data succes
+2025-02-12 23:04:25 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:04:25 | house_price | INFO | Load data succes
+2025-02-12 23:04:34 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:04:34 | house_price | INFO | Load data succes
+2025-02-12 23:09:02 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:09:02 | house_price | INFO | Load data succes
+2025-02-12 23:09:26 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:09:26 | house_price | INFO | Load data succes
+2025-02-12 23:12:17 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:12:17 | house_price | INFO | Load data succes
+2025-02-12 23:13:27 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:13:27 | house_price | INFO | Load data succes
+2025-02-12 23:14:51 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:14:51 | house_price | INFO | Load data succes
+2025-02-12 23:15:51 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:15:51 | house_price | INFO | Load data succes
+2025-02-12 23:16:34 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:16:34 | house_price | INFO | Load data succes
+2025-02-12 23:18:34 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:18:34 | house_price | INFO | Load data succes
+2025-02-12 23:19:33 | house_price | INFO | Initialized model with path: D:\ML5\final_projectt\notebooks\model.pkl
+2025-02-12 23:19:33 | house_price | INFO | Initialized scaler with path: D:\ML5\final_projectt\artifacts\model\scaler.pkl
+2025-02-12 23:19:34 | house_price | INFO | model load succesfully
+2025-02-12 23:19:34 | house_price | INFO | Load scaller succes
+2025-02-12 23:19:40 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":1,"building_area":58,"land_area":50,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:19:40 | house_price | INFO | Load data succes
+2025-02-12 23:29:32 | house_price | INFO | Received data for prediction: {"bedroom":2,"bathroom":3,"building_area":350,"land_area":250,"latitude":-7.3137835,"longitude":112.6684179}
+2025-02-12 23:29:32 | house_price | INFO | Load data succes

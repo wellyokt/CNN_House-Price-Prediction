@@ -1,0 +1,12 @@
+[theme]
+base="light"
+primaryColor="#577BC1"
+font="sans serif"
+
+[server]
+enableCORS = false
+enableXsrfProtection = true
+
+
+[runner]
+fastReruns = false
