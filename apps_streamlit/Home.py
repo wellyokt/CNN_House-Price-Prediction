@@ -249,7 +249,6 @@ if item =='Predictions':
         # Prediction Form
         with st.form("prediction_form"):
             st.subheader("Enter Parameters")
-            st.write(project_root)
             
             col1, col2,col3 = st.columns([4.5,0.5,4.5])
             
