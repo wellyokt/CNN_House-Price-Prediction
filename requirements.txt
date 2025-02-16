@@ -1,7 +1,7 @@
 geopandas==1.0.1
 pyarrow==19.0.0
 leaflet==0.0.3
-GDAL @ https://raw.githubusercontent.com/wellyokt/CNN_House-Price-Prediction/main/artifacts/gdal/GDAL-3.1.4-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64
+# GDAL @ https://raw.githubusercontent.com/wellyokt/CNN_House-Price-Prediction/main/artifacts/gdal/GDAL-3.1.4-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64
 streamlit==1.31.0
 streamlit-folium==0.18.0
 openpyxl==3.1.2
