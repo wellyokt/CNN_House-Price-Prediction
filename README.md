@@ -27,7 +27,7 @@ boston_house_price/
 │
 ├── artifacts/                       # Model artifacts
 │   ├── data                         # Dataset
-│   ├── data_prediction               # data input when api call
+│   ├── data_prediction               # data saved when api call
 │   ├── model                         # model an scaler
 │
 │
@@ -46,6 +46,7 @@ boston_house_price/
 │
 ├── app.py                          # FastAPI application
 ├── requirements.txt                # Dependencies
+|── Vercel.json                     #json for deploy api using vercel
 └── README.md                       # Documentation
 ```
 
